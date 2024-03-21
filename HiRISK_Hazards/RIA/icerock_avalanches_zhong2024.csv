@@ -1,0 +1,80 @@
+ID,Region,Country,Year,Month,Day,Approximate_Date,Longitude (E),Latitude (N),Location,Hazard types,Cascading processes,Casualty,Source volume (10^6 m^3),Real length (km),Damage,Trigger,Mean elevation of the detachment zone (m asl),Slope of the detachment zone (∞),Classification of the detachment zone,Reference
+1,C Himalaya,India,2021,2,NA,Feb 2021,79.732471,30.376542,"Ronti Gad, Rishiganga, and Dhauliganga valleys, Chamoli, Uttarakhand",Rock-ice avalanche,Debris flow - flood,200,27,55,2 hydroelectric projects destroyed,Rising temperatures and high meltwater input,5295 ,41 ,Glacial,(Shugar et al. 2021)
+2,C Himalaya,Nepal,2015,4,NA,Apr 2015,85.499152,28.242592,"Langtang valley, Rasuwa district, Bagmati",Rock-ice avalanche,Debris avalanmche,350,8,6,A village destroyed,Earthquake (M7.9),5944 ,50 ,Glacial,"(Lacroix 2016, Fujita et al. 2017)"
+3,C Himalaya,Nepal,2012,5,NA,May 2012/Prehistoric/Historic,84.051029,28.530416,"Seti Khola Valley, Pokhara City, Gandaki",Rock-ice avalanche,Debris flow - flood,72,10~15,46,Several houses destroyed,,6440 ,57 ,Glacial,"(Hanisch 2013, Schwanghart et al. 2016)"
+4,E Himalaya,India,2015,11,NA,Nov 2015,88.290547,27.640378,"Sakkyong, Sikkim",Rock-ice avalanche,Debris flow,,,8,,Heavy rain,4313 ,55 ,Periglacial,(Zhang and Wang 2022)
+5,E Himalaya,Bhutan,2015,NA,NA,Nov or Dec 2015,89.578027,28.123849,"Mo Chu River valley, Gasa",Rock-ice avalanche,N,,,4,,,5818 ,52 ,Glacial,Report by Dr. Mikhail D. Dokukin (https://twitter.com/inrushmd/status/997780618179239937)
+6,E Himalaya,Ind & Chi,2021,10,NA,Oct 2021,92.666814,27.925814,Upper Kameng River,Rock-ice avalanche,Debris flow/flood,,,28,,,6147 ,51 ,Periglacial,Report by AGU (https://blogs.agu.org/landslideblog/2021/11/19/the-29-october-2021-kameng-river-rock-and-ice-avalanche-in-india/)
+7,E Himalaya,Ind & Chi,NA,NA,NA,Aug 2020 (?),92.676470,27.932072,Upper Kameng River,Rock avalanche,N,,,5,,,5967 ,46 ,Periglacial,Report by AGU (https://blogs.agu.org/landslideblog/2021/11/19/the-29-october-2021-kameng-river-rock-and-ice-avalanche-in-india/)
+8,E Kun Lun,China,NA,NA,NA,Oct 2001 ~ Feb 2002,94.250686,35.670207,"Golmud City, Ximenggu Prefecture, Qinghai",Ice avalanche,N,,1~4,6,,Earthquake (M7.9),5589 ,41 ,Glacial,(van der Woerd et al. 2004)
+9,E Kun Lun,China,NA,NA,NA,Oct 2000 ~ Apr 2001,93.530595,35.753655,"Zhiduo County, Yushu Prefecture, Qinghai",Ice avalanche,N,,1~2,2,,Earthquake (M7.9),5413 ,28 ,Glacial,(van der Woerd et al. 2004)
+10,E Kun Lun,China,NA,NA,NA,Oct 2001 ~ Feb 2002,94.198879,35.666963,"Golmud City, Ximenggu Prefecture, Qinghai",Ice avalanche,N,,1~4,,,Earthquake (M7.9),,,,(van der Woerd et al. 2004)
+11,E Kun Lun,China,NA,NA,NA,Oct 2001 ~ Feb 2002,94.223439,35.668764,"Golmud City, Ximenggu Prefecture, Qinghai",Ice avalanche,N,,0.7~1.5,,,Earthquake (M7.9),,,,(van der Woerd et al. 2004)
+12,Hengduan Shan,China,2018,7,NA,Jul 2018,96.994005,29.053125,"Yazong Village, ShangChayu Township, Chayu County, Linzhi City, Tibet",Rock avalanche,Dammed lake - debris flow - flood,,,57,A country road and a bridge destroyed,,4827 ,45 ,Glacial,Report by Dr. Yang's in WeChat public website (https://mp.weixin.qq.com/s/PQU-CmXDK6xWfjRzQEg0tg) and (Zhong 2022)
+13,Hengduan Shan,China,NA,NA,NA,Sep 2007/Jul 2010/Sep 2010,95.290302,29.955521,"Tianmo Gully, Bomi County, Linzhi City, Tibet",Rock-ice avalanche,Debris flow - dammed lake,8,1,7,"A car, 2 ha of farmland, 2 houses, and a highway destroyed","Freeze-thaw weathering, heavy precipitation",4931 ,47 ,Periglacial,"(Wei et al. 2018, Zhai 2022)"
+14,Hengduan Shan,China,1953,NA,NA,Jul 1953,95.471208,29.972610,"Guxiang Gully, Bomi County, Linzhi City, Tibet",Rock-ice avalanche,Debris flow - dammed lake,140,11,9,"Several country road, farmland and bridges, 8 houses destroyed",Heavy precipitation and pre-earthquake activity (M8.5),5095 ,30 ,Periglacial,"(Zhu et al. 1997, Tong et al. 2020)"
+15,Hengduan Shan,China,NA,NA,NA,Prehistoric,99.941728,30.213748,"Luanshibao, Litang County, Ganzi Prefecture, Sichuan",Rock avalanche,N,,64~94,4,,Tectonic activity,4665 ,37 ,Periglacial,(Wang et al. 2018)
+16,Hengduan Shan,China,2014,9,NA,Sep 2014,96.775744,29.167579,"Azha Glacier, ShangChayu Township, Chayu County, Linzhi City, Tibet",Rock avalanche,N,,,3,,,5127 ,42 ,Glacial,(Zhong 2022)
+17,Hengduan Shan,China,2020,8,NA,Aug 2020,97.494504,28.406250,"XiaChayu Township, Chayu County, Linzhi City, Tibet",Rock avalanche,N,,,1,,,5102 ,45 ,Periglacial,(Zhong 2022)
+18,Hengduan Shan,China,2016,11,NA,Nov 2016,99.038082,31.827630,"Dege County, Ganzi Prefecture, Sichuan",Rock-ice avalanche,N,,,3,,,5592 ,43 ,Glacial,(Zhong 2022)
+19,Hengduan Shan,China,NA,NA,NA,Nov 2021/2016~2022,101.940987,29.571044,"Hailuogou Glacier, Moxi Township, Luding County, Ganzi Prefecture, Sichuan",Ice avalanche,N,,,2,,,4464 ,35 ,Glacial,(Liu et al. 2022)
+20,Hengduan Shan,China,NA,NA,NA,Mar 2004/Apr 2005,100.184470,27.090639,"Yulong Mountain, Lijiang City, Yunnan",Rock-ice avalanche,N,,2~4,5,,,5061 ,42 ,Periglacial,(Zhang et al. 2007)
+21,Inner Tibet,China,2016,7,NA,Jul 2016,82.243666,34.018816,"Aru Range, Rutok County, Ngari Prefecture, Tibet",Ice avalanche,N,9,68,8,,Rising temperatures and high liquid water input from melting and precipitation,5521 ,15 ,Glacial,(K‰‰b et al. 2018)
+22,Inner Tibet,China,2016,9,NA,Sep 2016,82.254926,34.005936,"Aru Range, Rutok County, Ngari Prefecture, Tibet",Ice avalanche,N,,83,7,,Rising temperatures and high liquid water input from melting and precipitation,5554 ,13 ,Glacial,(K‰‰b et al. 2018)
+23,Inner Tibet,China,NA,NA,NA,Prehistoric,90.231304,29.543704,"Nyixoi Chongco, Lhasa City, Tibet",Rock avalanche,N,,28,5,,,4521 ,33 ,High mountain,(Wang et al. 2019a)
+24,Karakoram,Pakistan,2012,4,NA,Apr 2012,76.812211,35.222935,"Gayari military base, Ghanche District, Gilgit-Baltistan",Ice avalanche,N,148,3.8,2,A military base destroyed,"Large ice crevasses form, causing liquid water to percolate to the base of the glacier",4404 ,26 ,Glacial,(Mahboob et al. 2015)
+25,Karakoram,Pakistan,NA,NA,NA,Prehistoric,74.952522,36.065578,"Barpu glacier basin, Gilgit-Baltistan",Rock avalanche,N,,,8,,,5866 ,51 ,Glacial,"(Hewitt 1988, 2002, 2009a, b)"
+25,Karakoram,Pakistan,NA,NA,NA,Prehistoric,74.929731,36.141406,"Barpu glacier basin, Gilgit-Baltistan",Rock-ice avalanche,N,,200,5,,,5356 ,45 ,Periglacial,"(Hewitt 1988, 2002, 2009a, b)"
+26,Karakoram,Pakistan,1890,NA,NA,1890,74.728767,36.165830,"Bualtar glacier basin, Gilgit-Baltistan",Rock avalanche,N,,,3,,,4579 ,40 ,Periglacial,"(Hewitt 1988, 2002, 2009a, b)"
+26,Karakoram,Pakistan,1986,7,NA,Jul 1986,74.718805,36.159354,"Bualtar glacier basin, Gilgit-Baltistan",Rock avalanche,N,,20,6,,,5348 ,41 ,Glacial,"(Hewitt 1988, 2002, 2009a, b)"
+27,Karakoram,Pakistan,2009,4,NA,Apr 2009,74.794931,36.279374,"Hunza Nagar Valley, Gilgit-Baltistan",Rock avalanche,Debris flow,,,4,A Road berms,,3974 ,38 ,High mountain,"(Zhu et al. 2014, Zhu et al. 2022)"
+27,Karakoram,Pakistan,NA,NA,NA,Historic,74.794931,36.279374,"Hunza Nagar Valley, Gilgit-Baltistan",Rock avalanche,Dammed lake - outburst flood,,,>400,Many forts and villages and extensive areas of agricultural lands destroyed,,3974 ,38 ,High mountain,(Evans and Delaney 2011)
+28,Karakoram,Pak & Ind,2010,9,NA,Sep 2010,77.157909,35.406231,"Siachen Glacier, Ladakh, Kashmir",Rock avalanche,N,,109,3,,,4970 ,34 ,Periglacial,(Coe 2020)
+29,Karakoram,Pakistan,2021,7,NA,Jul 2021,74.085186,36.220482,"Upper Naltar valley, Gilgit District, Gilgit-Baltistan",Rock avalanche,N,4,14,4,Several buildings destroyed,,4519 ,46 ,Periglacial,(Gardezi et al. 2022)
+30,Karakoram,Pakistan,NA,NA,NA,1991 or 1992,74.091974,36.749109,"Chillinji Glacier, Gilgit-Baltistan",Rock avalanche,N,,2~3,6,,,5332 ,56 ,Periglacial,(Deline et al. 2015)
+31,Karakoram,Pak & Ind,2000,NA,NA,Apr or May 2000,77.341067,35.356675,"North Terong Glacier, Ladakh, Kashmir",Rock avalanche,N,,7.6,6,,,6671 ,52 ,Periglacial,(Bhutiyani and Mahto 2018)
+32,Pamir,Tajikistan,NA,NA,NA,Aug 2016/Sep 2003/Aug 2006,70.853594,38.972455,"Shuraki Kapali detachment, Tajikabad",Rock-ice avalanche,Debris flow,,,7,,Rising temperatures,3838 ,36 ,Glacial,"(K‰‰b et al. 2021, Leinss et al. 2021)"
+32,Pamir,Tajikistan,NA,NA,NA,Jul 2017/Aug 1973/Jul 1994/Sep 2004/Sep 2010/Jun 2019,70.842649,38.972603,"Shuraki Kapali detachment, Tajikabad",Rock-ice avalanche,Debris flow,,8~11,19,,Rising temperatures,3441 ,21 ,Periglacial,"(K‰‰b et al. 2021, Leinss et al. 2021)"
+33,Pamir,China,NA,NA,NA,Historic,75.201932,38.104359,"Tagarma, Tashkurgan Tajik Autonomous County, Kashgar Region, Xinjiang",Rock avalanche,N,,110,6,,Ancient earthquake,4302 ,34 ,High mountain,(Wang et al. 2019b)
+34,Pamir,Tajikistan,2019,8,NA,Aug 2019,70.688658,38.985107,"Degilmoni Poyon detachment, Tajikabad",Rock-ice avalanche,Debris flow,,8.6,7,,Rising temperatures,3234 ,25 ,Glacial,"(K‰‰b et al. 2021, Leinss et al. 2021)"
+35,Pamir,Tajikistan,2009,4,NA,Apr 2009,70.936716,39.020861,"Shikorchi detachment, Tajikabad",Rock-ice avalanche,Debris flow,,,6,,Rising temperatures,3837 ,40 ,Glacial,(Leinss et al. 2021)
+35,Pamir,Tajikistan,NA,NA,NA,Mar 2001/Jun 2017,70.921248,39.016392,"Shikorchi detachment, Tajikabad",Rock-ice avalanche,Debris flow,,,4,,Rising temperatures,4008 ,33 ,High mountain,(Leinss et al. 2021)
+36,Pamir,Tajikistan,NA,NA,NA,Jul 2019/Aug 2006,70.993374,39.014638,"Shaklysu detachment, Tajikabad",Rock-ice avalanche,Debris flow,,,5,,Rising temperatures,3607 ,32 ,Glacial,(Leinss et al. 2021)
+37,Pamir,Kyrgyzstan,NA,NA,NA,Prehistoric,72.711689,39.397461,"Komansu, Alai valley, Chong-Alay District, Osh Region",Rock-ice avalanche,N,,4000,28,,Ancient earthquake (>M7.0),4988 ,43 ,Glacial,"(Robinson et al. 2014, Strom 2014)"
+38,Pamir,China,NA,NA,NA,Prehistoric,75.074837,39.143003,"Iymek, Ucha County, Kizilsu Kirgiz Prefecture, Xinjiang",Rock avalanche,N,,1000,16,,,3597 ,31 ,High mountain,(Shi et al. 2023)
+39,Pamir,Tajikistan,1911,NA,NA,Feb 1911,71.409327,37.408008,"Usoi, Rushon",Rock avalanche,Dammed lake,,2200,5,,Earthquake,3890 ,43 ,High mountain,"(Strom 1998, Schuster and Alford 2004)"
+40,Pamir,Tajikistan,NA,NA,NA,Historic,72.059785,37.605632,"Shugnan, district of Gorno-Badakhshan Autonomous Oblast region",Rock avalanche,Dammed lake,,,3,,,4396 ,37 ,High mountain,"(Saidov et al. 2018, Shakya 2020)"
+41,Pamir,Tajikistan,1911,NA,NA,Feb 1911,72.616046,38.307344,"Sarez village, Rushon District, Gorno-Badakhshan",Rock avalanche,Dammed lake,302,2200,8,A village destroyed,Earthquake (M6.5~7.0),4864 ,34 ,Periglacial,(Schuster and Alford 2004)
+42,S and E Tibet,China,NA,NA,NA,Jan 2004/Sep 2007/Oct 2016/Jul 2019,99.437168,34.823704,"Amney Machen mountain, Xiao Ma Valley, Xueshan Township, Maqan County, Golog Prefecture, Qinghai",Rock-ice avalanche,Debris flow,,20~25,6,A country road destroyed,,5485 ,38 ,Glacial,"(Paul 2019, K‰‰b et al. 2021)"
+43,S and E Tibet,China,NA,NA,NA,Oct and Dec 2017/Dec 1973/Jun 1977/Nov 2014,94.951749,29.818611,"Sedongpu Gully, Pai Township, Milin County, Linzhi City, Tibet",Rock-ice avalanche,Debris flow - dammed lake,,50,12,,Earthquake (M6.9),6206 ,56 ,Glacial,"(Yang 2019, K‰‰b et al. 2021, Zhao et al. 2022)"
+43,S and E Tibet,China,2018,NA,NA,Oct 2018,94.955434,29.800175,"Sedongpu Gully, Pai Township, Milin County, Linzhi City, Tibet",Rock-ice avalanche,Debris flow - dammed lake,,139,11,Affected 5758 people,,5560 ,45 ,Glacial,"(Yang 2019, K‰‰b et al. 2021, Zhao et al. 2022)"
+43,S and E Tibet,China,NA,NA,NA,Mar 2021/Oct 2019,94.947812,29.819987,"Sedongpu Gully, Pai Township, Milin County, Linzhi City, Tibet",Rock-ice avalanche,Debris flow - dammed lake,,50,12,,"Positive air temperature anomalies, high meltwater inputand long-term seismic activity",5861 ,55 ,Glacial,(Zhao et al. 2022)
+44,S and E Tibet,China,NA,NA,NA,Apr 2000/1900,94.995175,30.233540,"Zhamunong Gully, Yigong Township, Bomi County, Linzhi City, Tibet",Rock-ice avalanche,Debris flow - dammed lake - outburst flood,30,91,510,"Over 500,000 people have had their homes destroyed, over a dozen kilometres of road damaged, more than 20 bridges destroyed and a national highway disrupted for three months","Rising temperatures, high meltwater input and special geological conditions",4827 ,41 ,Periglacial,(Delaney and Evans 2015)
+45,S and E Tibet,China,NA,NA,NA,Aug 2015/Jun 1985/Jun 1986/1989~1990,94.933781,30.091611,"Peilong Gully, Bayi District, Linzhi City, Tibet",Rock avalanche,Debris flow - dammed lake - outburst flood,,1~5,12,"A bridge, several houses destroyed",Rising temperatures and high liquid water input from melting and precipitation,3851 ,35 ,Periglacial,"(Cheng and Wu 2011, Wang et al. 2021)"
+45,S and E Tibet,China,1983,7,NA,Jul 1983,94.935556,30.083017,"Peilong Gully, Bayi District, Linzhi City, Tibet",Rock-ice avalanche,Debris flow,,,2,"A bridge, 3 cars, 10 houses destroyed",Rising temperatures and high liquid water input from melting and precipitation,3293 ,31 ,Periglacial,(Zhai 2022)
+45,S and E Tibet,China,1984,7,NA,Jul 1984,94.935411,30.084797,"Peilong Gully, Bayi District, Linzhi City, Tibet",Rock-ice avalanche,Debris flow - dammed lake - outburst flood,6,,2,"5 bridges, 79 cars destroyed",Rising temperatures and high liquid water input from melting and precipitation,3851 ,35 ,Periglacial,(Zhai 2022)
+46,S and E Tibet,China,2017,5,NA,May 2017,94.086453,30.272549,"Bomi County, Linzhi City, Tibet",Rock avalanche,Debris flow,,,6,,,4996 ,49 ,Periglacial,(Zhong 2022)
+47,S and E Tibet,China,1950,8,NA,Aug 1950,95.003591,29.642539,"Zelongnong Glacier, Zhibai village, Milin County, Linzhi City, Tibet",Rock-ice avalanche,Debris flow,97,,10,A village destroyed,Earthquake (M8.5),,,,"(Zhang 1985, 1992, Tong et al. 2020)"
+48,W Himalaya,India,2009,10,NA,Oct 2009,76.754722,33.155450,"Miyar glacier, Lahaul And Spiti Districts, Himachal Pradesh",Rock avalanche,N,,1~2,4,,,5430 ,41 ,Periglacial,(Zhang and Wang 2022)
+49,W Tien Shan,Kyrgyzstan,2022,7,NA,Jul 2022,77.858991,41.950232,"Pereval Dzhuku, Issyk-Kul",Rock-ice avalanche,N,,2,2,,,4377 ,27 ,Glacial,Report by The Third Pole (https://www.thethirdpole.net/en/climate/aftermath-of-kyrgyzstans-viral-glacier-collapse/)
+50,W Tien Shan,Kyrgyzstan,NA,NA,NA,Prehistoric,72.698947,41.468436,Toktogul,Rock avalanche,N,,2~2.5,8,,,3010 ,45 ,Mountain,(Strom 1998)
+51,W Tien Shan,Kyrgyzstan,NA,NA,NA,Prehistoric,74.409653,40.940178,Aktara,Rock avalanche,N,,1,7,,,3656 ,53 ,Periglacial,(Strom 1998)
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
