@@ -1,12 +1,12 @@
 # HiRISKDashboards
 
-Data visualized in self-hosted dashboards at https://hirisk.org/#Dashboards 
+Data visualized in hosted dashboards at https://hirisk.org/#Dashboards 
 
 # HiRISK_Monitoring
 
 ![alt text](HiRISK_Monitoring/HiRISKMonitoringDashboard.jpg)
 
-Tabular overview on all monitoring setups in High Mountain Asia, including data managers and data access. Also includes Early Warning infrastructure. 
+Tabular overview on all monitoring setups in High Mountain Asia (to be updated), including data managers and data access. Also includes Early Warning infrastructure. 
 
 # HiRISK_Hazards
 
