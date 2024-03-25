@@ -436,6 +436,7 @@ st.markdown(
 1.https://github.com/fidelsteiner/HMAGLOFDB
 
 2.https://github.com/fidelsteiner/HiAVAL
+3.https://doi.org/10.5281/zenodo.10458200
 """
 )
 st.text("")
