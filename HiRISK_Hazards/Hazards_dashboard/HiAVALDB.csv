@@ -1,0 +1,685 @@
+Unnamed: 0,Location,Year,Month,Day,Latitude,Longitude,Country,Region_HiMAP,Type,Impact,Fatalities,Injured,Livestock,Leisure,Remarks,Reference
+0,Daykundi,2020,2.0,13.0,33.703958,66.036936,Afghanistan,8.0,,Y,22,10.0,,,series of avalanches in Daykundi between 13-14,https://reliefweb.int/report/afghanistan/afghanistan-avalanche-noaa-cpc-amd-media-echo-daily-flash-17-february-2020
+1,"Takhawi, Waras, Bamyan",2020,2.0,11.0,33.860994,66.750963,Afghanistan,8.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+2,"Dahne Shor Siadara, Yaka Walang, Bamyan",2020,2.0,12.0,34.639964,66.946914,Afghanistan,8.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+3,Anzob,2007,12.0,22.0,39.272888,68.541344,Tajikistan,5.0,snow avalanche,Y,16,,,,Dushanbe-Khujand road section,https://www.latimes.com/archives/la-xpm-2007-dec-23-fg-briefs23.s3-story.html
+4,Anzob,2010,3.0,17.0,39.272888,68.541344,Tajikistan,5.0,,Y,8,,,,,https://www.reuters.com/article/us-tajikistan-avalanche/avalanche-kills-eight-in-tajikistan-idUSTRE62H0HO20100318
+5,Anzob,2017,1.0,29.0,39.272888,68.541344,Tajikistan,5.0,,Y,7,,,,,
+6,"Guldara (Dushi), Dushi, Baghlan",2022,3.0,15.0,35.38999782,68.54863788,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+7,"Bibedara, Dushi, Baghlan",2022,3.0,14.0,35.38581,68.65556,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+8,"Bibedara, Dushi, Baghlan",2022,3.0,15.0,35.38550937,68.65646925,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+9,Istikol,2009,2.0,27.0,39.070615,68.697412,Tajikistan,5.0,snow avalanche,Y,6,0.0,,,driver and 5 passengers on a car were hit,https://www.thenewhumanitarian.org/report/83208/brief-avalanche-kills-six-people-tajikistan
+10,Anzob,1997,10.0,23.0,39.041862,68.836962,Tajikistan,5.0,,Y,46,,,,,https://www.dangerousroads.org/asia/tajikistan/2594-anzob-pass.html
+11,"Darwaza, Khenjan, Baghlan",2015,2.0,25.0,35.56925,68.90611,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+12,"Zarsarag, Khenjan, Baghlan",2015,2.0,25.0,35.48399,68.941292,Afghanistan,8.0,slab avalanche,Y,0,1.0,0.0,,1 persons injured,AKAH-A
+13,"Malkhan, Khenjan, Baghlan",2015,2.0,25.0,35.47525185,68.95356357,Afghanistan,8.0,slab avalanche,Y,0,2.0,0.0,,2 persons injured,AKAH-A
+14,Salang,2010,2.0,8.0,35.310158,69.045199,Afghanistan,8.0,,Y,175,70.0,,,"17 avalanches, triggered by heavy winds and rain, buried more than 2 miles of highway, more than 70 people injured",https://reliefweb.int/report/afghanistan/afghanistan-lessons-salang-pass-disaster  /  https://www.reuters.com/article/idINIndia-46016020100209
+15,Salang,2021,3.0,,35.310158,69.045199,Afghanistan,8.0,,Y,14,,,,,https://english.alarabiya.net/News/world/2021/03/05/At-least-14-killed-by-avalanche-hits-gold-mine-in-northern-Afghanistan-officials
+16,Salang,2009,1.0,16.0,35.305848,69.049623,Afghanistan,8.0,,Y,10,11.0,,,Southern part of the Salang Tunnel ,https://www.reuters.com/article/worldNews/idUSTRE50H0ON20090118?feedType=RSS&feedName=worldNews
+17,"youch, Banu, Baghlan",2015,2.0,26.0,35.361706,69.057838,Afghanistan,8.0,slab avalanche,Y,2,,0.0,,,AKAH-A
+18,"Mikhag, Banu, Baghlan",2015,2.0,26.0,35.614605,69.085274,Afghanistan,8.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+19,"Khambil, Raghistan, Badakhshan",2022,1.0,18.0,34.550579,69.163414,Afghanistan,8.0,slab avalanche,Y,3,5.0,0.0,,5 persons injured,AKAH-A
+20,"Kishan Abad, Banu, Baghlan",2015,2.0,26.0,35.619953,69.220108,Afghanistan,8.0,slab avalanche,Y,1,1.0,0.0,,1 persons injured,AKAH-A
+21,Degdonak,2005,2.0,3.0,38.928114,69.83007,Tajikistan,5.0,snow avalanche,Y,9,3.0,,,"3 people injured, 15 houses buried under snow",https://reliefweb.int/report/tajikistan/tajikistan-snow-avalanches-ocha-situation-report-no-1
+22,"Weghnan, Warsaj, Takhar",2015,3.0,3.0,36.008232,70.019539,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+23,"Aspogh, Warsaj, Takhar",2015,3.0,3.0,35.948956,70.041901,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+24,"7 remote CDCs, Arghanj Khaw, Badakhshan",2010,6.0,18.0,36.949934,70.116616,Afghanistan,8.0,wet snow avalanche,N,0,0.0,0.0,,,AKAH-A
+25,Afghanistan,2012,1.0,23.0,36.949934,70.116616,Afghanistan,8.0,snow avalanche,Y,43,65.0,,,,https://www.adrc.asia/view_disaster_en.php?NationCode=4&lang=en&KEY=1602
+26,Afghanistan,2015,2.0,24.0,35.576094,70.157491,Afghanistan,8.0,,Y,300,100.0,,,"198 casualties alone in Panjhsir Province, started from 24th Feb until early March",https://reliefweb.int/report/afghanistan/perfect-snow-storm-what-can-be-done-against-avalanche-damage-afghanistan
+27,"Ebroy, Warsaj, Takhar",2021,5.0,2.0,36.14040733,70.2163263,Afghanistan,8.0,wet snow avalanche,N,0,,0.0,,,AKAH-A
+28,"Chashma Angusht, Warsaj, Takhar",2015,3.0,3.0,36.12235925,70.2330602,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+29,"Chashma Angusht, Warsaj, Takhar",2022,3.0,15.0,36.12235925,70.2330602,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+30,"Bedi Ashuk, Warsaj, Takhar",2021,4.0,26.0,36.1190284,70.24286448,Afghanistan,8.0,wet snow avalanche,N,0,,0.0,,,AKAH-A
+31,"Zaiton, Warsaj, Takhar",2022,3.0,12.0,36.11137431,70.25186766,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+32,"Seel Posida, Warsaj, Takhar",2022,1.0,19.0,36.13213806,70.2733504,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+33,"Rubat Khombok, Tagab, Badakhshan",2015,3.0,4.0,36.559273,70.301048,Afghanistan,8.0,slab avalanche,Y,3,,0.0,,,AKAH-A
+34,"Dehzar, Warsaj, Takhar",2021,3.0,29.0,36.1477563,70.32714898,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+35,"Dehzar, Warsaj, Takhar",2022,3.0,12.0,36.1477563,70.32714898,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+36,"Peo, Warsaj, Takhar",2022,3.0,14.0,36.14905068,70.34818736,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+37,"Wolgreen, Yawan, Badakhshan",2015,2.0,21.0,37.528028,70.378631,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+38,"Khaibar, Darayim, Badakhshan",2015,1.0,7.0,36.872453,70.468836,Afghanistan,8.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+39,"Ghazwin, Kufab, Badakhshan",2016,4.0,22.0,38.04121,70.478759,Afghanistan,6.0,wet snow avalanche,Y,0,,2.0,,,AKAH-A
+40,"Toot Darra, Darayim, Badakhshan",2017,2.0,15.0,36.87064135,70.48968175,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+41,"Toot Darra, Darayim, Badakhshan",2019,1.0,9.0,36.87064135,70.48968175,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+42,"Toot Darra, Darayim, Badakhshan",2019,1.0,9.0,36.87064135,70.48968175,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+43,"Rawand (Nusai), Nusai, Badakhshan",2017,2.0,18.0,38.16884,70.50885,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+44,"Munjiha, Darayim, Badakhshan",2021,12.0,27.0,36.82849793,70.55228675,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+45,"Shrinazm, Shukai, Badakhshan",2015,1.0,13.0,38.18705,70.56997,Afghanistan,6.0,slab avalanche,Y,3,5.0,0.0,,5 persons injured,AKAH-A
+46,"Shrinazm, Shukai, Badakhshan",2018,2.0,15.0,38.18705,70.56997,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+47,"Shrinazm, Shukai, Badakhshan",2018,2.0,15.0,38.18705,70.56997,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+48,"Shrinazm, Shukai, Badakhshan",2019,1.0,19.0,38.18705,70.56997,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+49,"Badkay, Shukai, Badakhshan",2022,2.0,6.0,38.18003,70.57319,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+50,Afghanistan Fayzabad,2012,1.0,18.0,37.1175,70.579722,Afghanistan,6.0,snow avalanche,Y,29,40.0,,,,https://reliefweb.int/report/afghanistan/avalanches-badakhshan-situation-report-no-1
+51,"Zangeryai-Bala, Shukai, Badakhshan",2018,2.0,15.0,38.31178999,70.60808999,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+52,"Ghumai, Shukai, Badakhshan",2018,2.0,14.0,38.28714945,70.60876482,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+53,"Ghumai, Shukai, Badakhshan",2019,1.0,8.0,38.28714945,70.60876482,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+54,"Ghumai, Shukai, Badakhshan",2019,3.0,28.0,38.28714945,70.60876482,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+55,"Ghumai, Shukai, Badakhshan",2022,3.0,8.0,38.28714945,70.60876482,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+56,"Ghumai, Shukai, Badakhshan",2022,3.0,13.0,38.28714945,70.60876482,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+57,"Mashtive, Shukai, Badakhshan",2016,1.0,8.0,38.12314,70.61495,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+58,"Khami Kasku, Shukai, Badakhshan",2021,3.0,10.0,38.22199,70.6515,Afghanistan,6.0,slab avalanche,Y,2,,0.0,,,AKAH-A
+59,"Khum Kasku, Shukai, Badakhshan",2021,3.0,10.0,38.22199,70.6515,Afghanistan,6.0,slab avalanche,Y,2,,0.0,,,AKAH-A
+60,"Dehkha, Shukai, Badakhshan",2016,12.0,28.0,38.35055039,70.66252433,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+61,"Dehkha, Shukai, Badakhshan",2020,2.0,11.0,38.35055039,70.66252433,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+62,"Dehkha, Shukai, Badakhshan",2020,4.0,13.0,38.35055039,70.66252433,Afghanistan,6.0,wet snow avalanche,N,0,,0.0,,,AKAH-A
+63,"Dehkha, Shukai, Badakhshan",2021,2.0,22.0,38.35055039,70.66252433,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+64,"Dehkha, Shukai, Badakhshan",2022,1.0,2.0,38.35055039,70.66252433,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+65,"Dehkha, Shukai, Badakhshan",2022,1.0,4.0,38.35055039,70.66252433,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+66,"Dehkha, Shukai, Badakhshan",2022,1.0,18.0,38.35055039,70.66252433,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+67,"Dehkha, Shukai, Badakhshan",2022,3.0,6.0,38.35055039,70.66252433,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+68,"Dehkha, Shukai, Badakhshan",2022,3.0,8.0,38.35055039,70.66252433,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+69,"Dehkha, Shukai, Badakhshan",2022,3.0,12.0,38.35055039,70.66252433,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+70,"Dehkha, Shukai, Badakhshan",2022,3.0,13.0,38.35055039,70.66252433,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+71,"Khash, Yamgan, Badakhshan",2015,2.0,15.0,36.540119,70.667847,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+72,"Narghawn, Shukai, Badakhshan",2018,2.0,16.0,38.41435072,70.68963949,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+73,"Munaw, Shukai, Badakhshan",2015,2.0,24.0,38.39910571,70.6924054,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+74,"Munaw, Shukai, Badakhshan",2017,1.0,30.0,38.39910571,70.6924054,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+75,"Munaw, Shukai, Badakhshan",2018,2.0,15.0,38.39910571,70.6924054,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+76,"Munaw, Shukai, Badakhshan",2018,12.0,31.0,38.39910571,70.6924054,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+77,"Munaw, Shukai, Badakhshan",2021,2.0,24.0,38.39910571,70.6924054,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+78,Rasht,2019,8.0,2.0,38.989,70.693,Tajikistan,6.0,glacier detachment,N,0,0.0,,,"between 2-3 August, avalanche stopped only 2.6km outside the village Degilmoni Poyon ","(K��b et al., 2021 and Leinss et al., 2021)"
+79,"Khawand, Shukai, Badakhshan",2017,2.0,11.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+80,"Khawand, Shukai, Badakhshan",2018,2.0,14.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+81,"Khawand, Shukai, Badakhshan",2018,2.0,16.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+82,"Khawand, Shukai, Badakhshan",2019,1.0,5.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+83,"Khawand, Shukai, Badakhshan",2019,3.0,19.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+84,"Khawand, Shukai, Badakhshan",2019,3.0,28.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+85,"Khawand, Shukai, Badakhshan",2021,2.0,9.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+86,"Khawand, Shukai, Badakhshan",2022,1.0,2.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+87,"Khawand, Shukai, Badakhshan",2022,1.0,4.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+88,"Khawand, Shukai, Badakhshan",2022,2.0,14.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+89,"Khawand, Shukai, Badakhshan",2022,2.0,23.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+90,"Khawand, Shukai, Badakhshan",2022,3.0,6.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+91,"Khawand, Shukai, Badakhshan",2022,3.0,8.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+92,"Khawand, Shukai, Badakhshan",2022,3.0,12.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+93,"Khawand, Shukai, Badakhshan",2022,2.0,6.0,38.36883941,70.69392339,Afghanistan,6.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+94,"Purtel, Shukai, Badakhshan",2017,1.0,28.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+95,"Purtel, Shukai, Badakhshan",2017,1.0,28.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+96,"Purtel, Shukai, Badakhshan",2017,2.0,4.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+97,"Purtel, Shukai, Badakhshan",2017,2.0,4.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+98,"Meyandeh (Nusai), Nusai, Badakhshan",2017,2.0,15.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+99,"Purtel, Shukai, Badakhshan",2017,3.0,21.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+100,"Meyandeh (Nusai), Nusai, Badakhshan",2017,3.0,21.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+101,"Purtel, Shukai, Badakhshan",2018,2.0,15.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+102,"Purtel, Shukai, Badakhshan",2020,1.0,4.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+103,"Purtel, Shukai, Badakhshan",2020,1.0,4.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+104,"Purtel, Shukai, Badakhshan",2020,2.0,11.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+105,"Purtel, Shukai, Badakhshan",2021,3.0,11.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+106,"Purtel, Shukai, Badakhshan",2021,3.0,14.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+107,"Purtel, Shukai, Badakhshan",2021,3.0,28.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+108,"Purtel, Shukai, Badakhshan",2022,1.0,2.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+109,"Purtel, Shukai, Badakhshan",2022,1.0,18.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+110,"Purtel, Shukai, Badakhshan",2022,2.0,6.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+111,"Purtel, Shukai, Badakhshan",2022,3.0,20.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+112,"Purtel, Shukai, Badakhshan",2022,3.0,21.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+113,"Purtel, Shukai, Badakhshan",2022,3.0,22.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+114,"Purtel, Shukai, Badakhshan",2022,3.0,23.0,38.32908783,70.70745318,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+115,"Khahdara, Shukai, Badakhshan",2017,2.0,18.0,38.3237509,70.72386421,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+116,"Khahdara, Shukai, Badakhshan",2017,6.0,5.0,38.3237509,70.72386421,Afghanistan,6.0,wet snow avalanche,Y,0,,40.0,,,AKAH-A
+117,"Khahdara, Shukai, Badakhshan",2020,1.0,4.0,38.3237509,70.72386421,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+118,"Khahdara, Shukai, Badakhshan",2022,3.0,12.0,38.3237509,70.72386421,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+119,"Khundak, Shukai, Badakhshan",2021,2.0,22.0,38.32559999,70.72819999,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+120,"Dwak, Shukai, Badakhshan",2018,2.0,16.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+121,"Dwak, Shukai, Badakhshan",2018,3.0,12.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+122,"Dwak, Shukai, Badakhshan",2019,3.0,28.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+123,"Dwak, Shukai, Badakhshan",2021,2.0,23.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+124,"Dwak, Shukai, Badakhshan",2022,1.0,4.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+125,"Dwak, Shukai, Badakhshan",2022,2.0,7.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+126,"Dwak, Shukai, Badakhshan",2022,2.0,12.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+127,"Dwak, Shukai, Badakhshan",2022,2.0,23.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+128,"Dwak, Shukai, Badakhshan",2022,3.0,6.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+129,"Dwak, Shukai, Badakhshan",2022,3.0,9.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+130,"Dwak, Shukai, Badakhshan",2022,3.0,12.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+131,"Dwak, Shukai, Badakhshan",2022,3.0,13.0,38.41539817,70.72941448,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+132,"Kaj-Lar, Raghistan, Badakhshan",2015,2.0,21.0,37.702133,70.735718,Afghanistan,6.0,slab avalanche,Y,12,2.0,0.0,,2 persons injured,AKAH-A
+133,"Kalafzar, Yamgan, Badakhshan",2015,2.0,14.0,36.47043108,70.77636818,Afghanistan,8.0,slab avalanche,Y,5,,0.0,,,AKAH-A
+134,"Bishkharw (Monikharw), Nusai, Badakhshan",2017,2.0,4.0,38.28018,70.80021,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+135,"Dara-e- Baghar, Nusai, Badakhshan",2017,2.0,5.0,38.44258,70.80021,Afghanistan,6.0,slab avalanche,Y,0,,8.0,,,AKAH-A
+136,"Darjway, Nusai, Badakhshan",2019,1.0,12.0,38.44258,70.80021,Afghanistan,6.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+137,"Ghumai & Shakardara, Maimai & Nusai, Badakhshan",2010,6.0,18.0,38.432174,70.801936,Afghanistan,6.0,wet snow avalanche,N,0,0.0,0.0,,,AKAH-A
+138,"Nusai Center, Nusai, Badakhshan",2017,1.0,30.0,38.44327661,70.80503587,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+139,"Nusai Center, Nusai, Badakhshan",2018,2.0,16.0,38.44327661,70.80503587,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+140,"Nusai Center, Nusai, Badakhshan",2022,3.0,9.0,38.44327661,70.80503587,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+141,"Sari Jaway, Nusai, Badakhshan",2017,2.0,15.0,38.443056,70.805556,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+142,"Badamak, Nusai, Badakhshan",2017,2.0,15.0,38.443056,70.805556,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+143,"Badshar, Nusai, Badakhshan",2017,2.0,19.0,38.443056,70.805556,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+144,"wodab  Shuriyan, Nusai, Badakhshan",2019,1.0,25.0,38.438915,70.809476,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+145,"Khurkat-Shuriyan, Nusai, Badakhshan",2019,1.0,21.0,38.438915,70.809476,Afghanistan,6.0,slab avalanche,Y,1,,0.0,,1 persons injured,AKAH-A
+146,"Darjaway, Nusai, Badakhshan",2020,2.0,11.0,38.433648,70.809719,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+147,"Meyandeh (Nusai), Nusai, Badakhshan",2018,2.0,15.0,38.28039501,70.81273485,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+148,"Meyandeh (Nusai), Nusai, Badakhshan",2020,1.0,14.0,38.28039501,70.81273485,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+149,"Meyandeh (Nusai), Nusai, Badakhshan",2020,1.0,14.0,38.28039501,70.81273485,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+150,"Darjaway, Nusai, Badakhshan",2020,2.0,12.0,38.28039501,70.81273485,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+151,"Meyandeh (Nusai), Nusai, Badakhshan",2021,3.0,11.0,38.28039501,70.81273485,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+152,"Mah-e-naw, Maimai, Badakhshan",2021,3.0,17.0,38.28039501,70.81273485,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+153,"Mah-e-naw, Maimai, Badakhshan",2021,3.0,28.0,38.28039501,70.81273485,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+154,"Meyandeh (Nusai), Nusai, Badakhshan",2021,3.0,28.0,38.28039501,70.81273485,Afghanistan,6.0,slab avalanche,Y,0,,10.0,,,AKAH-A
+155,"Meyandeh (Nusai), Nusai, Badakhshan",2022,1.0,4.0,38.28039501,70.81273485,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+156,"Meyanadeh, Shukai, Badakhshan",2017,2.0,4.0,38.28142,70.81297,Afghanistan,6.0,slab avalanche,Y,0,3.0,0.0,,3 persons injured,AKAH-A
+157,"Sari Deh, Nusai, Badakhshan",2019,1.0,17.0,38.44268138,70.81668013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+158,"Sari Deh, Nusai, Badakhshan",2021,2.0,22.0,38.44268138,70.81668013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+159,"Sari Deh, Nusai, Badakhshan",2021,2.0,24.0,38.44268138,70.81668013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+160,"Sari Deh, Nusai, Badakhshan",2022,3.0,8.0,38.44268138,70.81668013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+161,"Sari Deh, Nusai, Badakhshan",2022,3.0,11.0,38.44268138,70.81668013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+162,"Kerawar (Jawaidara), Nusai, Badakhshan",2018,2.0,16.0,38.29129628,70.82110851,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+163,"Kerawar (Jawaidara), Nusai, Badakhshan",2018,2.0,16.0,38.29129628,70.82110851,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+164,"Newar, Nusai, Badakhshan",2020,12.0,27.0,38.31041796,70.83008874,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+165,Shuraki Kapali catchment,2016,8.0,28.0,38.972,70.835,Tajikistan,6.0,glacier detachment,Y,0,0.0,0.0,,"swept away few cattles, destroyed 10 buildings, bridge,  avalanche passes through the villages of Fathobod and Kapali","(Leinss et al., 2021)"
+166,Shuraki Kapali catchment,2019,6.0,21.0,38.971146,70.835875,Tajikistan,6.0,glacier detachment,N,0,0.0,0.0,,between 21-23 June,"(Leinss et al., 2021)"
+167,Shuraki Kapali catchment,2019,6.0,26.0,38.971146,70.835875,Tajikistan,6.0,glacier detachment,N,0,0.0,0.0,,between 26 Jun - July 1,"(Leinss et al., 2021)"
+168,Shuraki Kapali catchment,1994,,,38.975,70.839,Tajikistan,6.0,glacier detachment,N,0,0.0,0.0,,,"(Leinss et al., 2021)"
+169,"Khughaz, Nusai, Badakhshan",2017,1.0,30.0,38.413002,70.839546,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+170,"Aroon, Nusai, Badakhshan",2017,1.0,29.0,38.30569,70.83967,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+171,"Aroon, Nusai, Badakhshan",2017,2.0,16.0,38.30569,70.83967,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+172,"Aroon, Nusai, Badakhshan",2020,12.0,27.0,38.30569,70.83967,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+173,"Aroon, Nusai, Badakhshan",2022,1.0,5.0,38.30569,70.83967,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+174,Shuraki Kapali catchment,2004,,,38.972831,70.840745,Tajikistan,6.0,glacier detachment,N,0,0.0,0.0,,,"(Leinss et al., 2021)"
+175,Shuraki Kapali catchment,2010,9.0,,38.972831,70.840745,Tajikistan,6.0,glacier detachment,N,0,0.0,0.0,,,"(Leinss et al., 2021)"
+176,"Sedya-e-Payan, Nusai, Badakhshan",2017,2.0,5.0,38.3146657,70.84118473,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+177,Shuraki Kapali catchment,2003,9.0,,38.969984,70.845789,Tajikistan,6.0,glacier detachment,N,0,0.0,0.0,,,"(Leinss et al., 2021)"
+178,Shuraki Kapali catchment,2003,8.0,,38.969984,70.845789,Tajikistan,6.0,glacier detachment,N,0,0.0,0.0,,,"(Leinss et al., 2021)"
+179,Shuraki Kapali catchment,2016,7.0,,38.969984,70.845789,Tajikistan,6.0,glacier detachment,N,0,0.0,0.0,,,"(Leinss et al., 2021)"
+180,"Panam, Kuran wa Munjan, Badakhshan",2021,3.0,28.0,35.83943116,70.84646298,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+181,Rasht,2017,7.0,10.0,38.975,70.85,Tajikistan,6.0,glacier detachment,N,0,0.0,0.0,,in between 10-11 July,"(K��b et al., 2021)"
+182,"Rawand (Nusai), Nusai, Badakhshan",2017,1.0,29.0,38.33087591,70.85293008,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+183,"Rawand (Nusai), Nusai, Badakhshan",2017,2.0,5.0,38.33087591,70.85293008,Afghanistan,6.0,slab avalanche,Y,0,4.0,0.0,,4 persons injured,AKAH-A
+184,"Wujmi Payan, Nusai, Badakhshan",2022,3.0,14.0,38.3669264,70.85319222,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+185,"Wujmi Payan, Nusai, Badakhshan",2022,3.0,19.0,38.3669264,70.85319222,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+186,"Parkhekh, Nusai, Badakhshan",2017,2.0,16.0,38.33384096,70.86374806,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+187,"Parkhekh, Nusai, Badakhshan",2017,2.0,16.0,38.33384096,70.86374806,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+188,"Parkhekh, Nusai, Badakhshan",2022,3.0,12.0,38.33384096,70.86374806,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+189,"Ullarep, Jurm, Badakhshan",2017,2.0,1.0,36.80525794,70.86590659,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+190,"Paryad, Nusai, Badakhshan",2022,3.0,13.0,38.44345329,70.89664456,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+191,Nuristan,2017,2.0,4.0,35.317202,70.898674,Afghanistan,8.0,,Y,137,,,,,Afghanistan avalanches death toll passes 135 | Afghanistan | The Guardian
+192,"Kalan Dara, Arghanj Khaw, Badakhshan",2015,2.0,23.0,37.349983,70.9095,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+193,"Arward, Nusai, Badakhshan",2017,3.0,26.0,38.33838882,70.91045888,Afghanistan,6.0,slab avalanche,Y,0,,15.0,,,AKAH-A
+194,"Arward, Nusai, Badakhshan",2019,1.0,16.0,38.33838882,70.91045888,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+195,"Ubaghn, Nusai, Badakhshan",2017,1.0,24.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+196,"Ubaghn, Nusai, Badakhshan",2017,3.0,21.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+197,"Ubaghn, Nusai, Badakhshan",2017,4.0,1.0,38.42881139,70.93050899,Afghanistan,6.0,wet snow avalanche,N,0,,0.0,,,AKAH-A
+198,"Ubaghn, Nusai, Badakhshan",2017,2.0,5.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,Y,0,,3.0,,,AKAH-A
+199,"Ubaghn, Nusai, Badakhshan",2018,2.0,16.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+200,"Ubaghn, Nusai, Badakhshan",2018,2.0,16.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+201,"Ubaghn, Shukai, Badakhshan",2019,1.0,14.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+202,"Ubaghn, Nusai, Badakhshan",2019,2.0,14.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+203,"Ubaghn, Nusai, Badakhshan",2021,3.0,13.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+204,"Ubaghn, Nusai, Badakhshan",2021,3.0,29.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+205,"Ubaghn, Nusai, Badakhshan",2022,1.0,4.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+206,"Ubaghn, Nusai, Badakhshan",2022,2.0,23.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+207,"Ubaghn, Nusai, Badakhshan",2022,3.0,9.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+208,"Ubaghn, Nusai, Badakhshan",2022,3.0,11.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+209,"Ubaghn, Nusai, Badakhshan",2022,3.0,13.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+210,"Ubaghn, Nusai, Badakhshan",2022,3.0,18.0,38.42881139,70.93050899,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+211,"Sakhach wa Zonun, Nusai, Badakhshan",2018,2.0,16.0,38.42942,70.930809,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+212,"Jogani, Nusai, Badakhshan",2018,2.0,16.0,38.42942,70.930809,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+213,Badakhshan ,2012,3.0,4.0,38.2,70.933333,Afghanistan,6.0,snow avalanche,Y,196,,,,death toll from 4th to 8th,https://reliefweb.int/report/afghanistan/north-eastern-kunduz-office-badakhshan-avalanche-incident-report-no-3
+214,"Manikhawr, Shukai, Badakhshan",2012,6.0,18.0,38.199556,70.93725,Afghanistan,6.0,wet snow avalanche,N,0,,0.0,,,AKAH-A
+215,"Jarf, Shukai, Badakhshan",2019,1.0,15.0,38.199556,70.93725,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+216,"Charsang, Arghanj Khaw, Badakhshan",2015,2.0,23.0,37.366943,70.940552,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+217,"Charmaghzistan, Yamgan, Badakhshan",2015,2.0,19.0,36.52050784,70.96666463,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+218,"Shagoon, Maimai, Badakhshan",2019,1.0,17.0,38.39655,71.027232,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+219,"Ghuzmurgh, Baharak, Badakhshan",2015,2.0,13.0,37.033821,71.027527,Afghanistan,6.0,slab avalanche,Y,2,3.0,0.0,,3 persons injured,AKAH-A
+220,"Rizway, Maimai, Badakhshan",2018,2.0,16.0,38.44370355,71.03258226,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+221,"Dehkha, Shukai, Badakhshan",2018,2.0,14.0,37.65236,71.03805,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+222,"Dehkha, Shukai, Badakhshan",2018,2.0,16.0,37.65236,71.03805,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+223,"Dehkha, Shukai, Badakhshan",2018,3.0,13.0,37.65236,71.03805,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+224,"Dehkha, Shukai, Badakhshan",2019,1.0,12.0,37.65236,71.03805,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+225,"Dehkha, Shukai, Badakhshan",2019,3.0,28.0,37.65236,71.03805,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+226,"Dehkha, Shukai, Badakhshan",2020,1.0,7.0,37.65236,71.03805,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+227,"Dawlat Shahi, Arghanj khaw, Badakhshan",2020,1.0,11.0,37.65236,71.03805,Afghanistan,6.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+228,"Dawlat shayee, Arghanj  khaw, Badakhshan",2021,4.0,6.0,37.65236,71.03805,Afghanistan,6.0,wet snow avalanche,Y,1,,0.0,,,AKAH-A
+229,"Sarchashmai Markazi, Maimai, Badakhshan",2019,1.0,17.0,38.40432232,71.04711317,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+230,"Charbagh, Maimai, Badakhshan",2018,2.0,16.0,38.40394443,71.05096168,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+231,"Sarchashma, Maimai, Badakhshan",2018,2.0,27.0,38.39520149,71.06269243,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+232,"Sarchashma, Maimai, Badakhshan",2019,1.0,9.0,38.39520149,71.06269243,Afghanistan,6.0,slab avalanche,Y,0,3.0,0.0,,3 persons injured,AKAH-A
+233,"Sarchashma, Maimai, Badakhshan",2019,1.0,17.0,38.39520149,71.06269243,Afghanistan,6.0,slab avalanche,Y,0,1.0,0.0,,1 person injured,AKAH-A
+234,"Sarchashma, Maimai, Badakhshan",2020,2.0,12.0,38.39520149,71.06269243,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+235,"Sarchashmai Markazi, Maimai, Badakhshan",2021,2.0,9.0,38.39520149,71.06269243,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+236,"Kughaz, Maimai, Badakhshan",2017,3.0,25.0,38.39066741,71.07082108,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+237,"Kughaz, Maimai, Badakhshan",2019,1.0,16.0,38.39066741,71.07082108,Afghanistan,6.0,slab avalanche,Y,0,5.0,0.0,,5 persons injured,AKAH-A
+238,"Wereezn (Shighnan), Shighnan, Badakhshan",2022,3.0,12.0,38.41402569,71.08163064,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+239,Jirgital,2006,1.0,30.0,39.405905,71.091765,Tajikistan,5.0,snow avalanche,Y,18,12.0,,,,https://reliefweb.int/report/tajikistan/tajikistan-18-people-killed-avalanche
+240,"Rawand Sharist, Maimai, Badakhshan",2017,1.0,30.0,37.82731998,71.09525999,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+241,"Rawand Sharist, Maimai, Badakhshan",2017,2.0,16.0,37.82731998,71.09525999,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+242,"Rawand Sharist, Maimai, Badakhshan",2018,2.0,15.0,37.82731998,71.09525999,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+243,"Rawand Sharist, Maimai, Badakhshan",2021,3.0,17.0,37.82731998,71.09525999,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+244,"Khuf (Warfad), Maimai, Badakhshan",2019,1.0,19.0,37.982926,71.100024,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+245,"Khuf, Maimai, Badakhshan",2021,3.0,29.0,37.982926,71.100024,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+246,"Zodo Badoof, Arghanj Khaw, Badakhshan",2010,6.0,18.0,37.70279,71.10715,Afghanistan,6.0,wet snow avalanche,N,0,0.0,0.0,,,AKAH-A
+247,"Zood Raban, Arghanj Khaw, Badakhshan",2016,1.0,13.0,37.70279,71.10715,Afghanistan,6.0,slab avalanche,Y,3,,0.0,,,AKAH-A
+248,"Payanshar, Maimai, Badakhshan",2017,2.0,17.0,38.38890359,71.12543586,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+249,"Jashtak, Maimai, Badakhshan",2015,1.0,12.0,38.39735823,71.12691572,Afghanistan,6.0,slab avalanche,Y,2,1.0,0.0,,1 persons injured,AKAH-A
+250,"Jashtak, Maimai, Badakhshan",2019,1.0,16.0,38.39735823,71.12691572,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+251,"Dad Ali, Arghanj Khaw, Badakhshan",2012,6.0,28.0,37.36279406,71.13172483,Afghanistan,6.0,wet snow avalanche,N,0,,0.0,,,AKAH-A
+252,"Panjai Mard, Maimai, Badakhshan",2017,2.0,15.0,37.87968282,71.1354013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+253,"Panjai Mard, Maimai, Badakhshan",2017,2.0,15.0,37.87968282,71.1354013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+254,"Panjai Mard, Maimai, Badakhshan",2017,2.0,15.0,37.87968282,71.1354013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+255,"Panjai Mard, Maimai, Badakhshan",2017,2.0,15.0,37.87968282,71.1354013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+256,"Panjai Mard, Maimai, Badakhshan",2017,2.0,18.0,37.87968282,71.1354013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+257,"Panjai Mard, Maimai, Badakhshan",2017,2.0,18.0,37.87968282,71.1354013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+258,"Panjai Mard, Maimai, Badakhshan",2017,2.0,18.0,37.87968282,71.1354013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+259,"Panjai Mard, Maimai, Badakhshan",2019,1.0,14.0,37.87968282,71.1354013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+260,"Panjai Mard, Maimai, Badakhshan",2021,3.0,28.0,37.87968282,71.1354013,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+261,"Mah-e-naw, Maimai, Badakhshan",2017,1.0,29.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+262,"Mah-e-naw, Maimai, Badakhshan",2017,1.0,30.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+263,"Mah-e-naw, Maimai, Badakhshan",2017,2.0,1.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+264,"Mah-e-naw, Maimai, Badakhshan",2017,2.0,17.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+265,"Mah-e-naw, Maimai, Badakhshan",2017,2.0,17.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+266,"Mah-e-naw, Maimai, Badakhshan",2017,2.0,16.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,Y,0,,10.0,,,AKAH-A
+267,"Mah-e-naw, Maimai, Badakhshan",2017,2.0,18.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,Y,0,,23.0,,,AKAH-A
+268,"Mah-e-naw, Maimai, Badakhshan",2019,4.0,4.0,38.37854808,71.13644111,Afghanistan,6.0,wet snow avalanche,Y,0,,10.0,,,AKAH-A
+269,"Mah-e-naw, Maimai, Badakhshan",2020,2.0,19.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+270,"Mah-e-naw, Maimai, Badakhshan",2022,2.0,6.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+271,"Mah-e-naw, Maimai, Badakhshan",2022,3.0,10.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+272,"Mah-e-naw, Maimai, Badakhshan",2022,3.0,12.0,38.37854808,71.13644111,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+273,"Parabir, Maimai, Badakhshan",2015,2.0,26.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,Y,9,3.0,0.0,,3 persons injured,AKAH-A
+274,"Parabir(Khizraw), Maimai, Badakhshan",2017,1.0,29.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+275,"Parabir, Maimai, Badakhshan",2017,1.0,30.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+276,"Rawand (Nusai), Nusai, Badakhshan",2017,1.0,30.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+277,"Parabir(Khizraw), Maimai, Badakhshan",2017,2.0,15.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+278,"Parabir, Maimai, Badakhshan",2017,2.0,18.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+279,"Parabir, Maimai, Badakhshan",2017,2.0,19.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+280,"Parabir, Maimai, Badakhshan",2019,1.0,14.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+281,"Parabir, Maimai, Badakhshan",2020,1.0,12.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+282,"Parabir, Maimai, Badakhshan",2020,1.0,12.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+283,"Parabir, Maimai, Badakhshan",2020,1.0,12.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+284,"Parabir, Maimai, Badakhshan",2020,1.0,12.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+285,"Parabir, Maimai, Badakhshan",2020,1.0,13.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+286,"Parabir, Maimai, Badakhshan",2022,1.0,19.0,37.88205998,71.14416998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+287,"Madakhirs, Maimai, Badakhshan",2018,2.0,15.0,37.891129,71.148026,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+288,"Tupdara 1(DaraiSher), Maimai, Badakhshan",2021,3.0,14.0,37.99264246,71.16121548,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+289,"Dara-e-Sher, Maimai, Badakhshan",2017,2.0,6.0,38.00164835,71.16781936,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+290,"Sanglizh, Zebak, Badakhshan",2017,1.0,30.0,36.30173037,71.18748765,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+291,"Dara-e-Sher, Maimai, Badakhshan",2017,2.0,16.0,37.95531998,71.20039998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+292,"Dara-e-Sher, Maimai, Badakhshan",2017,2.0,16.0,37.95531998,71.20039998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+293,"Dara-e-Sher, Maimai, Badakhshan",2017,2.0,16.0,37.95531998,71.20039998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+294,"Aylaq-i-Khodun (Tupdara 2)(DaraiSher), Maimai, Badakhshan",2017,1.0,29.0,37.954739,71.20047,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+295,"Aylaq-i-Khodun (Tupdara 2)(DaraiSher), Maimai, Badakhshan",2017,2.0,6.0,37.954739,71.20047,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+296,"Tanshive, Maimai, Badakhshan",2015,4.0,3.0,37.953445,71.201614,Afghanistan,6.0,wet snow avalanche,N,0,,0.0,,,AKAH-A
+297,"Sarchashma, Maimai, Badakhshan",2017,2.0,19.0,38.05394852,71.22242925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+298,"Sarchashma, Maimai, Badakhshan",2017,2.0,15.0,38.05394852,71.22242925,Afghanistan,6.0,slab avalanche,Y,0,6.0,0.0,,6 persons injured,AKAH-A
+299,"Sarchashma, Maimai, Badakhshan",2022,3.0,13.0,38.05394852,71.22242925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+300,"Pitab (Warv), Maimai, Badakhshan",2022,3.0,13.0,38.07309998,71.22765998,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+301,"Dara-e-Sher, Maimai, Badakhshan",2018,2.0,15.0,37.98764765,71.2352556,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+302,"Dara-e-Sher, Maimai, Badakhshan",2019,3.0,28.0,37.98764765,71.2352556,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+303,"Dara-e-Sher, Maimai, Badakhshan",2022,1.0,20.0,37.98764765,71.2352556,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+304,"Dara-e-Sher, Maimai, Badakhshan",2022,3.0,13.0,37.98764765,71.2352556,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+305,"Barghud, Maimai, Badakhshan",2017,2.0,4.0,38.15540589,71.23988017,Afghanistan,6.0,slab avalanche,Y,10,12.0,0.0,,12 persons injured,AKAH-A
+306,"Barghud, Maimai, Badakhshan",2018,2.0,15.0,38.15540589,71.23988017,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+307,"Budardha, Ishkashim, Badakhshan",2019,1.0,16.0,38.15540589,71.23988017,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+308,"Barghud, Maimai, Badakhshan",2019,1.0,16.0,38.15540589,71.23988017,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+309,"Barghud, Maimai, Badakhshan",2022,1.0,16.0,38.15540589,71.23988017,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+310,"Barghud, Maimai, Badakhshan",2022,3.0,9.0,38.15540589,71.23988017,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+311,"Barghud, Maimai, Badakhshan",2022,3.0,17.0,38.15540589,71.23988017,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+312,Zhambyl,2017,2.0,17.0,42.915143,71.251291,Kazakhstan,,,Y,7,,,,,https://reliefweb.int/report/tajikistan/deadly-avalanches-hit-central-asia
+313,"Eskitol, Zebak, Badakhshan",2015,2.0,26.0,36.4148568,71.27231165,Afghanistan,8.0,slab avalanche,Y,0,1.0,0.0,,1 person injured,AKAH-A
+314,"Begaw (Warv), Maimai, Badakhshan",2016,12.0,29.0,38.16416487,71.27446846,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+315,"Begaw, Maimai, Badakhshan",2017,2.0,16.0,38.16416487,71.27446846,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+316,"Begaw, Maimai, Badakhshan",2020,2.0,21.0,38.16416487,71.27446846,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+317,"Begaw, Maimai, Badakhshan",2020,2.0,12.0,38.16416487,71.27446846,Afghanistan,6.0,slab avalanche,Y,0,1.0,0.0,,1 persons injured,AKAH-A
+318,"Begaw (Warv), Maimai, Badakhshan",2022,3.0,13.0,38.16416487,71.27446846,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+319,"Yasech, Shuhada, Badakhshan",2022,3.0,19.0,37.05353964,71.28120585,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+320,"Qala, Maimai, Badakhshan",2017,2.0,19.0,38.14023376,71.28578929,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+321,"Rawand (Maimai), Maimai, Badakhshan",2017,1.0,29.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+322,"Rawand (Maimai), Maimai, Badakhshan",2017,2.0,16.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+323,"Rawand Sharist, Maimai, Badakhshan",2019,1.0,8.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+324,"Rawand (Nusai), Nusai, Badakhshan",2019,1.0,9.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+325,"Rawand (Nusai), Nusai, Badakhshan",2019,1.0,12.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+326,"Rawand (Maimai), Maimai, Badakhshan",2019,3.0,19.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+327,"Rawand (Maimai), Maimai, Badakhshan",2021,3.0,10.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+328,"Rawand (Maimai), Maimai, Badakhshan",2022,2.0,7.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+329,"Rawand (Maimai), Maimai, Badakhshan",2022,3.0,8.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+330,"Rawand (Maimai), Maimai, Badakhshan",2022,3.0,9.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+331,"Rawand (Maimai), Maimai, Badakhshan",2022,3.0,13.0,38.04420291,71.28768752,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+332,"Chasnood Payan, Shighnan, Badakhshan",2017,1.0,28.0,37.92229783,71.28799419,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+333,"Chasnood Payan, Shighnan, Badakhshan",2018,2.0,15.0,37.92229783,71.28799419,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+334,"Chasnood Payan, Shighnan, Badakhshan",2019,4.0,16.0,37.92229783,71.28799419,Afghanistan,6.0,wet snow avalanche,N,0,,0.0,,,AKAH-A
+335,"Chasnood Payan, Shighnan, Badakhshan",2021,3.0,10.0,37.92229783,71.28799419,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+336,"Chasnood Payan, Shighnan, Badakhshan",2022,1.0,4.0,37.92229783,71.28799419,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+337,"Chasnood Payan, Shighnan, Badakhshan",2022,3.0,10.0,37.92229783,71.28799419,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+338,"Chasnood Payan, Shighnan, Badakhshan",2022,3.0,11.0,37.92229783,71.28799419,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+339,"Chasnood Payan, Shighnan, Badakhshan",2022,3.0,13.0,37.92229783,71.28799419,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+340,"Chasnood Payan, Shighnan, Badakhshan",2022,3.0,17.0,37.92229783,71.28799419,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+341,"Sadwadg, Maimai, Badakhshan",2022,2.0,7.0,38.01508612,71.28873703,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+342,"Sadwadg, Maimai, Badakhshan",2022,2.0,23.0,38.01508612,71.28873703,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+343,"Sadwadg, Maimai, Badakhshan",2022,3.0,13.0,38.01508612,71.28873703,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+344,"Horan Shahr Bala, Arghanjkhaw, badakhshan",2022,3.0,13.0,37.09024,71.2891,Afghanistan,6.0,slab avalanche,Y,1,1.0,0.0,,1 person injured,AKAH-A
+345,"Besta Ched, Shighnan, Badakhshan",2015,2.0,21.0,37.364628,71.304352,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+346,"Dewlagh jamarch bala, Maimai, Badakhshan",2019,2.0,6.0,38.25618162,71.31471543,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+347,"Yarkh, Shighnan, Badakhshan",2018,2.0,15.0,37.90183083,71.31512981,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+348,"Yarkh, Shighnan, Badakhshan",2018,2.0,15.0,37.90183083,71.31512981,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+349,"Yarkh, Shighnan, Badakhshan",2022,2.0,7.0,37.90183083,71.31512981,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+350,"Dara-i-Gushdar-Raghsunyak, Maimai, Badakhshan",2017,1.0,28.0,38.26413891,71.31556917,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+351,"Dara-i-Gushdar-Raghsunyak, Maimai, Badakhshan",2018,2.0,16.0,38.269192,71.324997,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+352,"Shaikha, Shighnan, Badakhshan",2017,2.0,9.0,37.845228,71.33246833,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+353,"Shaikha, Shighnan, Badakhshan",2017,2.0,15.0,37.845228,71.33246833,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+354,"Shaikha, Shighnan, Badakhshan",2017,2.0,15.0,37.845228,71.33246833,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+355,"Shaikha, Shighnan, Badakhshan",2017,2.0,15.0,37.845228,71.33246833,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+356,"Shaikha, Shighnan, Badakhshan",2017,2.0,17.0,37.845228,71.33246833,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+357,"Amurn, Maimai, Badakhshan",2017,1.0,28.0,38.1958237,71.35879966,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+358,"Amurn, Maimai, Badakhshan",2022,3.0,9.0,38.1958237,71.35879966,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+359,"Gharib, Zebak, Badakhshan",2022,3.0,15.0,36.62633978,71.3673664,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+360,"Chawid, Shighnan, Badakhshan",2017,2.0,15.0,37.90039512,71.37838734,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+361,"Chawid, Shighnan, Badakhshan",2018,2.0,15.0,37.90039512,71.37838734,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+362,"Zwardara, Ishkashim, Badakhshan",2021,3.0,28.0,37.15763058,71.40714507,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+363,"Arakht, Shighnan, Badakhshan",2015,2.0,24.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+364,"Arakht, Shighnan, Badakhshan",2017,1.0,30.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+365,"Arakht, Shighnan, Badakhshan",2017,2.0,16.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+366,"Arakht, Shighnan, Badakhshan",2017,2.0,18.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+367,"Arakht, Shighnan, Badakhshan",2017,2.0,18.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+368,"Arakht, Shighnan, Badakhshan",2017,2.0,18.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+369,"Arakht, Shighnan, Badakhshan",2017,2.0,18.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+370,"Arakht, Shighnan, Badakhshan",2018,2.0,15.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+371,"Arakht, Shighnan, Badakhshan",2018,2.0,15.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+372,"Arakht, Shighnan, Badakhshan",2018,2.0,16.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+373,"Arakht, Shighnan, Badakhshan",2018,2.0,16.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+374,"Arakht, Shighnan, Badakhshan",2018,2.0,16.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+375,"Arakht, Shighnan, Badakhshan",2018,2.0,16.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+376,"Arakht, Shighnan, Badakhshan",2019,1.0,16.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+377,"Arakht, Shighnan, Badakhshan",2019,4.0,3.0,37.37671504,71.41200779,Afghanistan,6.0,wet snow avalanche,Y,0,,42.0,,,AKAH-A
+378,"Arakht, Shighnan, Badakhshan",2020,12.0,28.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+379,"Arakht, Shighnan, Badakhshan",2021,2.0,9.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+380,"Arakht, Shighnan, Badakhshan",2021,3.0,28.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+381,"Arakht, Shighnan, Badakhshan",2022,1.0,5.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+382,"Arakht, Shighnan, Badakhshan",2022,2.0,6.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+383,"Arakht, Shighnan, Badakhshan",2022,2.0,22.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+384,"Arakht, Shighnan, Badakhshan",2022,2.0,22.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+385,"Arakht, Shighnan, Badakhshan",2022,3.0,3.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+386,"Arakht, Shighnan, Badakhshan",2022,3.0,12.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+387,"Arakht, Shighnan, Badakhshan",2022,3.0,15.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+388,"Arakht, Shighnan, Badakhshan",2022,3.0,16.0,37.37671504,71.41200779,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+389,"Showaldara, Ishkashim, Badakhshan",2017,1.0,28.0,36.66453431,71.424921,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+390,"Showaldara, Ishkashim, Badakhshan",2019,2.0,11.0,36.66453431,71.424921,Afghanistan,6.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+391,"Darmadar, Ishkashim, Badakhshan",2022,3.0,12.0,37.2183507,71.4280947,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+392,"Zich, Ishkashim, Badakhshan",2015,2.0,16.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+393,"Zich, Ishkashim, Badakhshan",2015,4.0,1.0,37.07705215,71.42827557,Afghanistan,6.0,wet snow avalanche,N,0,,0.0,,,AKAH-A
+394,"Zich, Ishkashim, Badakhshan",2017,1.0,29.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+395,"Zich, Ishkashim, Badakhshan",2017,3.0,20.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+396,"Zich, Ishkashim, Badakhshan",2019,1.0,5.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+397,"Zich, Ishkashim, Badakhshan",2019,1.0,15.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+398,"Zich, Ishkashim, Badakhshan",2019,1.0,15.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+399,"Zich, Ishkashim, Badakhshan",2019,1.0,15.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+400,"Zich, Ishkashim, Badakhshan",2019,1.0,15.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+401,"Zich, Ishkashim, Badakhshan",2021,3.0,18.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+402,"Zich, Ishkashim, Badakhshan",2022,1.0,30.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+403,"Zich, Ishkashim, Badakhshan",2022,3.0,9.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+404,"Zich, Ishkashim, Badakhshan",2022,3.0,12.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+405,"Zich, Ishkashim, Badakhshan",2022,3.0,6.0,37.07705215,71.42827557,Afghanistan,6.0,slab avalanche,Y,1,3.0,13.0,,3 persons injured,AKAH-A
+406,"Woned, Ishkashim, Badakhshan",2019,1.0,16.0,37.20888504,71.43451109,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+407,"Gharjween, Shighnan, Badakhshan",2017,2.0,18.0,37.47324555,71.43765879,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+408,"Safidsang, Ishkashim, Badakhshan",2019,2.0,14.0,37.21621746,71.43848157,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+409,"Yazgam, Shighnan, Badakhshan",2015,2.0,21.0,37.53808148,71.44571624,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+410,"Yazgam, Shighnan, Badakhshan",2017,1.0,28.0,37.53808148,71.44571624,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+411,"Yazgam, Shighnan, Badakhshan",2017,2.0,16.0,37.53808148,71.44571624,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+412,"Yazgam, Shighnan, Badakhshan",2017,2.0,16.0,37.53808148,71.44571624,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+413,"Yazgam, Shighnan, Badakhshan",2017,2.0,16.0,37.53808148,71.44571624,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+414,"Yazgam, Shighnan, Badakhshan",2017,2.0,16.0,37.53808148,71.44571624,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+415,"Yazgam, Shighnan, Badakhshan",2018,2.0,15.0,37.53808148,71.44571624,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+416,"Yazgam, Shighnan, Badakhshan",2018,2.0,16.0,37.53808148,71.44571624,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+417,"Yazgam, Shighnan, Badakhshan",2019,1.0,8.0,37.53808148,71.44571624,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+418,"Pajwar, Shighnan, Badakhshan",2017,2.0,16.0,37.91226003,71.44637022,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+419,"Andaj, Ishkashim, Badakhshan",2015,2.0,21.0,37.03103708,71.44824362,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+420,"Andaj, Ishkashim, Badakhshan",2018,12.0,29.0,37.03103708,71.44824362,Afghanistan,6.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+421,"Pishprind, Shughnan, Badakhshan",2016,2.0,10.0,37.616856,71.449766,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+422,"Shughnan, Shighnan, Badakhshan",2019,1.0,8.0,37.616856,71.449766,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+423,"Darmarakht, Shighnan, Badakhshan",2019,1.0,16.0,37.616856,71.449766,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+424,"Darmarakht, Shighnan, Badakhshan",2019,1.0,16.0,37.616856,71.449766,Afghanistan,6.0,slab avalanche,Y,0,1.0,0.0,,,AKAH-A
+425,"Fenjan, Shighnan, Badakhshan",2018,2.0,15.0,37.342552,71.45874,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+426,"Meyandeh (Nusai), Nusai, Badakhshan",2017,1.0,30.0,37.33265932,71.45955,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+427,"Meyandeh (Nusai), Nusai, Badakhshan",2017,3.0,22.0,37.33265932,71.45955,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+428,"Meyanbar1, Shighnan, Badakhshan",2017,3.0,28.0,37.33265932,71.45955,Afghanistan,6.0,slab avalanche,Y,2,,0.0,,,AKAH-A
+429,"Meyanbar1, Shighnan, Badakhshan",2021,1.0,21.0,37.33265932,71.45955,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+430,"Meyanbar1, Shighnan, Badakhshan",2021,2.0,9.0,37.33265932,71.45955,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+431,"Gulbagh, Ishkashim, Badakhshan",2017,1.0,29.0,37.2230776,71.46035306,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+432,"Gulbagh, Ishkashim, Badakhshan",2019,1.0,15.0,37.2230776,71.46035306,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+433,"Gulbagh, Ishkashim, Badakhshan",2019,1.0,15.0,37.2230776,71.46035306,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+434,"Bedarbun, Ishkashim, Badakhshan",2015,2.0,16.0,37.242458,71.470329,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+435,"Shahran (Shighnan), Shighnan, Badakhshan",2017,1.0,28.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+436,"Chasnood Bala, Shighnan, Badakhshan",2021,3.0,10.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+437,"Shahran (Shighnan), Shighnan, Badakhshan",2021,3.0,29.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+438,"Shahran (Shighnan), Shighnan, Badakhshan",2022,1.0,4.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+439,"Chasnood Bala, Shighnan, Badakhshan",2022,1.0,4.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+440,"Chasnood Bala, Shighnan, Badakhshan",2022,1.0,18.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+441,"Shahran (Shighnan), Shighnan, Badakhshan",2022,1.0,30.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+442,"Gulbagh, Ishkashim, Badakhshan",2022,1.0,30.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+443,"Chasnood Payan, Shighnan, Badakhshan",2022,2.0,7.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+444,"Chasnood Bala, Shighnan, Badakhshan",2022,2.0,7.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+445,"Shahran (Shighnan), Shighnan, Badakhshan",2022,2.0,7.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+446,"Shahran (Shighnan), Shighnan, Badakhshan",2022,2.0,13.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+447,"Shahran (Shighnan), Shighnan, Badakhshan",2022,2.0,23.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+448,"Chasnood Payan, Shighnan, Badakhshan",2022,2.0,27.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+449,"Shahran (Shighnan), Shighnan, Badakhshan",2022,3.0,6.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+450,"Shahran (Shighnan), Shighnan, Badakhshan",2022,3.0,8.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+451,"Shahran (Shighnan), Shighnan, Badakhshan",2022,3.0,9.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+452,"Chasnood Payan, Shighnan, Badakhshan",2022,3.0,9.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+453,"Shahran (Shighnan), Shighnan, Badakhshan",2022,3.0,10.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+454,"Shahran (Shighnan), Shighnan, Badakhshan",2022,3.0,11.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+455,"Shahran (Shighnan), Shighnan, Badakhshan",2022,3.0,12.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+456,"Shahran (Shighnan), Shighnan, Badakhshan",2022,3.0,19.0,37.40570449,71.47398584,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+457,"Meyanshahr, Shighnan, Badakhshan",2017,2.0,17.0,37.48641896,71.47631462,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+458,"Meyanshahr, Shighnan, Badakhshan",2017,2.0,18.0,37.48641896,71.47631462,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+459,"Meyanshahr, Shighnan, Badakhshan",2017,2.0,18.0,37.48641896,71.47631462,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+460,"Meyanshahr, Shighnan, Badakhshan",2017,2.0,18.0,37.48641896,71.47631462,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+461,"Meyanshahr, Shighnan, Badakhshan",2021,3.0,29.0,37.48641896,71.47631462,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+462,"Dakkhana, Shighnan, Badakhshan",2015,2.0,14.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+463,"Dakkhana, Shighnan, Badakhshan",2016,2.0,10.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+464,"Dakkhana, Shighnan, Badakhshan",2017,1.0,24.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+465,"Dakkhana, Shighnan, Badakhshan",2017,1.0,28.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+466,"Dakkhana, Shighnan, Badakhshan",2018,2.0,15.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+467,"Dakkhana, Shighnan, Badakhshan",2018,2.0,15.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+468,"Dakkhana, Shighnan, Badakhshan",2019,3.0,19.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+469,"Dakkhana, Shighnan, Badakhshan",2020,12.0,27.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+470,"Dakkhana, Shighnan, Badakhshan",2021,1.0,21.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+471,"Dakkhana, Shighnan, Badakhshan",2021,3.0,5.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+472,"Dakkhana, Shighnan, Badakhshan",2021,3.0,28.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+473,"Dakkhana, Shighnan, Badakhshan",2021,3.0,29.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+474,"Dakkhana, Shighnan, Badakhshan",2022,1.0,4.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+475,"Dakkhana, Shighnan, Badakhshan",2022,1.0,5.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+476,"Dakkhana, Shighnan, Badakhshan",2022,1.0,30.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+477,"Dakkhana, Shighnan, Badakhshan",2022,2.0,7.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+478,"Dakkhana, Shighnan, Badakhshan",2022,2.0,24.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+479,"Dakkhana, Shighnan, Badakhshan",2022,3.0,6.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+480,"Dakkhana, Shighnan, Badakhshan",2022,3.0,7.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+481,"Dakkhana, Shighnan, Badakhshan",2022,3.0,8.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+482,"Dakkhana, Shighnan, Badakhshan",2022,3.0,9.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+483,"Dakkhana, Shighnan, Badakhshan",2022,3.0,11.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+484,"Dakkhana, Shighnan, Badakhshan",2022,3.0,12.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+485,"Dakkhana, Shighnan, Badakhshan",2022,3.0,16.0,37.33160124,71.48066118,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+486,"Budardha, Ishkashim, Badakhshan",2021,3.0,28.0,37.23909632,71.4810934,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+487,"Budardha, Ishkashim, Badakhshan",2022,1.0,30.0,37.23909632,71.4810934,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+488,"Khawer-Redaj, Shighnan, Badakhshan",2022,3.0,13.0,37.55123344,71.48279801,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+489,"Khushpaki Payan, Ishkashim, Badakhshan",2017,2.0,9.0,36.66071203,71.48304897,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+490,"Tebenak( Darmarakht), Shighnan, Badakhshan",2017,3.0,22.0,37.33333,71.483333,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+491,"Tibanak-Darmarakht, Shighnan, Badakhshan",2021,3.0,5.0,37.33333,71.483333,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+492,"Meyandeh (Nusai), Nusai, Badakhshan",2017,3.0,27.0,37.4762446,71.48374315,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+493,"Lachid-Parviz-Bezokh, Shighnan, Badakhshan",2017,2.0,19.0,37.55689475,71.48441025,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+494,"Walij, Ishkashim, Badakhshan",2017,2.0,4.0,36.91768491,71.48556901,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+495,"Bawer Rejistak, Shighnan, Badakhshan",2017,2.0,19.0,37.5612063,71.48640125,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+496,"Chawgantrashan, Shighnan, Badakhshan",2015,3.0,3.0,37.42873924,71.48778875,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+497,"Chawgantrashan, Shighnan, Badakhshan",2017,2.0,19.0,37.42873924,71.48778875,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+498,"Chawgantrashan, Shighnan, Badakhshan",2019,1.0,16.0,37.42873924,71.48778875,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+499,"Chawgantrashan, Shighnan, Badakhshan",2021,3.0,28.0,37.42873924,71.48778875,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+500,"Chawgantrashan, Shighnan, Badakhshan",2022,3.0,8.0,37.42873924,71.48778875,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+501,"Deerdehmurghan, Shighnan, Badakhshan",2019,1.0,16.0,37.54085411,71.48930809,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+502,"Deerdehmurghan, Shighnan, Badakhshan",2022,3.0,6.0,37.54085411,71.48930809,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+503,"Tebinak, Shughnan, Badakhshan",2015,2.0,15.0,37.295712,71.490486,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+504,"Badam Tendir, Shighnan, Badakhshan",2022,3.0,13.0,37.5770064,71.49132421,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+505,"Shiduj Dara, Shighnan, Badakhshan",2012,3.0,19.0,37.69090831,71.49274795,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+506,"Shiduj Dara, Shighnan, Badakhshan",2017,2.0,15.0,37.69090831,71.49274795,Afghanistan,6.0,slab avalanche,Y,1,12.0,0.0,,12 persons injured,AKAH-A
+507,"Shiduj Dara, Shighnan, Badakhshan",2019,1.0,17.0,37.69090831,71.49274795,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+508,"Shiduj Dara, Shighnan, Badakhshan",2022,2.0,23.0,37.69090831,71.49274795,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+509,"Shiduj Dara, Shighnan, Badakhshan",2022,2.0,25.0,37.69090831,71.49274795,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+510,"Shiduj Dara, Shighnan, Badakhshan",2022,3.0,13.0,37.69090831,71.49274795,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+511,"Shiduj Dara, Shighnan, Badakhshan",2022,3.0,16.0,37.69090831,71.49274795,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+512,"Shiduj Dara, Shighnan, Badakhshan",2022,3.0,17.0,37.69090831,71.49274795,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+513,"Shiduj Dara, Shighnan, Badakhshan",2022,3.0,19.0,37.69090831,71.49274795,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+514,"Sawan, Shighnan, Badakhshan",2022,3.0,13.0,37.51184106,71.4937825,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+515,"Vazh Reem, Shighnan, Badakhshan",2022,3.0,15.0,37.58977673,71.49720816,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+516,"Jangal (Pajwar), Shighnan, Badakhshan",2021,3.0,10.0,37.93991694,71.49914878,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+517,"Jangal (Pajwar), Shighnan, Badakhshan",2022,3.0,5.0,37.93991694,71.49914878,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+518,"Jangal (Pajwar), Shighnan, Badakhshan",2022,3.0,6.0,37.93991694,71.49914878,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+519,"Jangal (Pajwar), Shighnan, Badakhshan",2022,3.0,6.0,37.93991694,71.49914878,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+520,"Jangal (Pajwar), Shighnan, Badakhshan",2022,3.0,17.0,37.93991694,71.49914878,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+521,"Tirive (Weyer), Shighnan, Badakhshan",2015,2.0,21.0,37.60856145,71.50095619,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+522,"Tirive (Dehshar), Shighnan, Badakhshan",2015,2.0,21.0,37.60856145,71.50095619,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+523,"Tirive (Dehshar), Shighnan, Badakhshan",2017,2.0,16.0,37.60856145,71.50095619,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+524,"Tirive (Weyer), Shighnan, Badakhshan",2018,2.0,15.0,37.60856145,71.50095619,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+525,"Tirive (Weyer), Shighnan, Badakhshan",2018,2.0,15.0,37.60856145,71.50095619,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+526,"Deshar, Shighnan, Badakhshan",2018,2.0,15.0,37.614479,71.504311,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+527,"Shiva- Bamdara Pass, Arghanjkhaw, Badakhshan",2021,11.0,12.0,37.49374656,71.50479828,Afghanistan,6.0,wet snow avalanche,Y,2,,0.0,,,AKAH-A
+528,"Wirathn, Shighnan, Badakhshan",2022,3.0,13.0,37.61821713,71.50559468,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+529,"Sari Shakh, Ishkashim, Badakhshan",2021,3.0,28.0,36.88377194,71.51231751,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+530,"Wereezn (Shighnan), Shighnan, Badakhshan",2015,2.0,21.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+531,"Wereezn (Shighnan), Shighnan, Badakhshan",2017,1.0,28.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+532,"Wereezn (Shighnan), Shighnan, Badakhshan",2017,1.0,30.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+533,"Wereezn (Shighnan), Shighnan, Badakhshan",2017,2.0,8.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+534,"Wereezn (Shighnan), Shighnan, Badakhshan",2017,2.0,8.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+535,"Wereezn (Shighnan), Shighnan, Badakhshan",2017,2.0,8.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+536,"Wereezn (Shighnan), Shighnan, Badakhshan",2017,2.0,15.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+537,"Wereezn (Shighnan), Shighnan, Badakhshan",2017,2.0,16.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+538,"Wereezn (Shighnan), Shighnan, Badakhshan",2021,3.0,17.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+539,"Wereezn (Shighnan), Shighnan, Badakhshan",2021,3.0,29.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+540,"Wereezn (Shighnan), Shighnan, Badakhshan",2022,3.0,6.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+541,"Wereezn (Shighnan), Shighnan, Badakhshan",2022,3.0,14.0,37.65039703,71.52034974,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+542,"Khawar, Shighnan, Badakhshan",2017,2.0,19.0,37.68643712,71.53385011,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+543,"Nawadak, Shighnan, Badakhshan",2015,2.0,22.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+544,"Nawadak, Shighnan, Badakhshan",2022,1.0,5.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+545,"Nawadak, Shighnan, Badakhshan",2022,2.0,6.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+546,"Nawadak, Shighnan, Badakhshan",2022,2.0,7.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+547,"Nawadak, Shighnan, Badakhshan",2022,3.0,2.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+548,"Nawadak, Shighnan, Badakhshan",2022,3.0,10.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+549,"Nawadak, Shighnan, Badakhshan",2022,3.0,13.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+550,"Nawadak, Shighnan, Badakhshan",2022,3.0,14.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+551,"Nawadak, Shighnan, Badakhshan",2022,3.0,15.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+552,"Nawadak, Shighnan, Badakhshan",2022,3.0,16.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+553,"Nawadak, Shighnan, Badakhshan",2022,3.0,17.0,37.75476845,71.53396925,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+554,"Chasnood Bala, Shighnan, Badakhshan",2022,3.0,17.0,37.77788149,71.54579631,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+555,"Gharan, Ishkashim, Badakhshan",2010,3.0,11.0,36.708032,71.552187,Afghanistan,6.0,slab avalanche,N,0,0.0,0.0,,,AKAH-A
+556,"Kunar Province, Afghanistan",2022,2.0,7.0,35.117071,71.559069,Afghanistan,8.0,snow avalanche,Y,19,,,,,https://reliefweb.int/report/afghanistan/afghanistan-snow-avalanche-amd-media-echo-daily-flash-08-february-2022
+557,"Nawabad (Ishkashiem), Ishkashim, Badakhshan",2019,3.0,19.0,36.7071189,71.56628694,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+558,"Khak Ali, Darayim, Badakhshan",2022,3.0,14.0,36.706726,71.569351,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+559,"Khashak, Nusai, Badakhshan",2022,1.0,4.0,36.70668,71.569359,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+560,"Rubat (Shighnan), Shighnan, Badakhshan",2022,3.0,13.0,36.70668,71.569359,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+561,"Larky, Yamgan, Badakhshan",2022,3.0,14.0,36.70668,71.569359,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+562,"Rubat (Shighnan), Shighnan, Badakhshan",2022,3.0,14.0,36.70668,71.569359,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+563,"Rubat (Shighnan), Shighnan, Badakhshan",2022,3.0,14.0,36.70668,71.569359,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+564,"Wirathn, Shighnan, Badakhshan",2022,3.0,14.0,36.70668,71.569359,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+565,"Gharjween, Shighnan, Badakhshan",2022,3.0,14.0,36.70668,71.569359,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+566,"Arakht, Shighnan, Badakhshan",2022,3.0,14.0,36.70668,71.569359,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+567,"Sarjaway, Nusai, Badakhshan",2021,2.0,9.0,36.70689,71.569366,Afghanistan,6.0,slab avalanche,Y,2,7.0,0.0,,7 persons injured,AKAH-A
+568,"Rubat (Shighnan), Shighnan, Badakhshan",2017,1.0,15.0,37.83897136,71.58385931,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+569,"Rubat (Shighnan), Shighnan, Badakhshan",2017,1.0,28.0,37.83897136,71.58385931,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+570,"Rubat (Shighnan), Shighnan, Badakhshan",2017,2.0,18.0,37.83897136,71.58385931,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+571,"Rubat (Shighnan), Shighnan, Badakhshan",2018,1.0,29.0,37.83897136,71.58385931,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+572,"Rubat (Shighnan), Shighnan, Badakhshan",2018,2.0,15.0,37.83897136,71.58385931,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+573,"Rubat (Shighnan), Shighnan, Badakhshan",2018,2.0,17.0,37.83897136,71.58385931,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+574,"Rubat (Shighnan), Shighnan, Badakhshan",2021,3.0,17.0,37.83897136,71.58385931,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+575,"Rubat (Shighnan), Shighnan, Badakhshan",2022,2.0,24.0,37.83897136,71.58385931,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+576,"Rubat (Shighnan), Shighnan, Badakhshan",2022,3.0,16.0,37.83897136,71.58385931,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+577,"Rubat (Shighnan), Shighnan, Badakhshan",2022,3.0,17.0,37.83897136,71.58385931,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+578,"Futoor, Wakhan, Badakhshan",2019,1.0,13.0,36.68254166,71.652222,Afghanistan,6.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+579,"Panja, Wakhan, Badakhshan",2021,3.0,30.0,36.99710825,72.57856111,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+580,"Pamir khurd, Wakhan, Badakhshan",2020,1.0,16.0,36.994361,72.650815,Afghanistan,8.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+581,Lenin peak ,1990,7.0,13.0,39.344094,72.877599,Tajikistan,6.0,,Y,40,,,,,https://www.nytimes.com/1990/07/18/world/avalanche-kills-40-climbers-in-soviet-central-asia.html
+582,Kohistan,2010,2.0,16.0,35.411909,72.94035,Pakistan,8.0,snow avalanche,Y,120,72.0,,,"Families of 72 treated, Heavy snowfall",https://reliefweb.int/disaster/av-2010-000027-pak  /  https://reliefweb.int/report/pakistan/pakistan-kohistan-avalanche-death-toll-rises-102
+583,"Korut, Wakhan, Badakhshan",2021,3.0,21.0,36.94849851,72.96753524,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+584,Gorno- Badakhshan,2010,2.0,6.0,38.474399,73.102399,Tajikistan,6.0,,Y,1,0.0,,,one person died when hit by avalanche and tried to jump off the truck,https://asiaplustj.info/en/news/tajikistan/incidents/20100206/avalanche-kills-one-gorno-badakhshan
+585,GBAO,2015,1.0,14.0,38.474399,73.102399,Tajikistan,6.0,,Y,10,1.0,,,avalanche incidents since Jan 14,https://www.rferl.org/a/avalanches-claim-five-lives-in-tajikistan/29717373.html
+586,Gorno-Badakshan,2019,1.0,,38.474399,73.102399,Tajikistan,6.0,,Y,7,1.0,,,,https://www.rferl.org/a/avalanches-claim-five-lives-in-tajikistan/29717373.html
+587,"Archa, Wakhan, Badakhshan",2017,3.0,22.0,36.99154516,73.22911819,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+588,"Ners, Wakhan, Badakhshan",2012,3.0,20.0,36.98262401,73.32445,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+589,"Ners, Wakhan, Badakhshan",2017,2.0,5.0,36.98262401,73.32445,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+590,"Kherkat, Nusai, badakhshan",2022,3.0,7.0,36.98541579,73.38243981,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+591,"Kherkat, Nusai, Badakhshan",2022,3.0,12.0,36.98541579,73.38243981,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+592,Jalal-Abad,2022,2.0,14.0,41.12026,73.772608,Kyrgyzstan,4.0,,Y,3,,,,,
+593,2022 Kyrgyzstan avalanche,2022,2.0,15.0,41.12026,73.772608,Kyrgyzstan,4.0,,Y,3,,,,,https://24.kg/english/223967_Avalanche_Three_people_go_missing_on_North_-_South_road/
+594,Kashmir,2020,11.0,17.0,34.397451,73.860665,India,10.0,snow avalanche,Y,1,2.0,,,,https://www.ndtv.com/india-news/one-soldier-killed-two-injured-as-avalanche-hits-army-post-in-jammu-and-kashmirs-kupwara-2326725
+595,Line of Control,2020,1.0,14.0,34.397451,73.860665,India,10.0,snow avalanche,Y,10,,,,Excessive snowfall,https://www.nytimes.com/2020/01/14/world/asia/pakistan-kashmir-avalanches.html
+596,Uri-Sector,1997,3.0,28.0,34.095994,74.035038,India,10.0,slab avalanche,Y,4,,,,,https://egyankosh.ac.in/bitstream/123456789/25175/1/Unit-14.pdf
+597,Kashmir avalanches,2018,1.0,5.0,34.409163,74.098664,India,10.0,,Y,11,2.0,,,"2 people rescued, near simultaneous avalanches at 3 places in a stretch of about 10 km",https://kathmandupost.com/world/2018/01/07/multiple-avalanches-in-indian-held-kashmir-kill-11
+598,Jammu and Kashmir,2005,2.0,18.0,33.793152,74.346548,India,10.0,snow avalanche,Y,540,,,,"Series of avalanches since 18th Feb due to excessive snowfall, 1200 houses damaged, 4500 people evacuated, 262 people missing",https://egyankosh.ac.in/bitstream/123456789/25175/1/Unit-14.pdf
+599,Line of Control,2020,1.0,14.0,34.827012,74.358551,Pakistan,10.0,snow avalanche,Y,55,12.0,,,">12 injuries, Excessive snowfall",https://www.nytimes.com/2020/01/14/world/asia/pakistan-kashmir-avalanches.html
+600,Nilt,2022,4.0,22.0,36.231076,74.418877,Pakistan,9.0,,N,0,0.0,0.0,,,
+601,Gurez Sector,2017,1.0,25.0,34.634041,74.773255,India,10.0,,Y,24,,,,"20 soldiers and 4 civilians, some remain missing","(Rafiq and Mishra, 2018)"
+602,"Banihal, Jammu and Kashmir",1998,2.0,25.0,33.430363,75.214877,India,10.0,,Y,11,,,,Avalanche caused by intense snowfall destroyed a remote house and claimed the lives of its inhabitants,https://egyankosh.ac.in/bitstream/123456789/25175/1/Unit-14.pdf
+603,Shigar,1988,,,35.592339,75.568032,Pakistan,9.0,,Y,42,,,,,personal communication
+604,Lahual and Spiti,1978,3.0,,32.759515,76.19334,India,10.0,,Y,30,,,,,"(SoER, 2005)"
+605,"Udaipur, Lahual",1992,3.0,29.0,32.729617,76.674216,India,10.0,,Y,9,,,,,"(Chandel et al., 2015)"
+606,"Gayari Military Base, Ghanche",2012,4.0,7.0,35.498008,76.753358,Pakistan,9.0,ice and rock avalanche ,Y,140,,,,Indo-Pakistan border; 128 soldiers and 11 civilians,"(McClung, 2016; Gilany et al., 2019)"
+607,"Keylong, Lahual",1996,3.0,19.0,32.578084,77.033034,India,10.0,,Y,6,,,,,"(Chandel et al., 2015)"
+608,Molodejny,2022,4.0,,43.054354,77.047463,Kazakhstan,4.0,,Y,2,,,,,https://turkmenportal.com/en/blog/46177/the-avalanche-descended-from-the-kazakhstan-mountains
+609,Shymbulak,2006,4.0,9.0,43.128277,77.080485,Kazakhstan,4.0,,Y,6,,,Y,,https://english.pravda.ru/news/world/78968-kazakhstan/
+610,Shymbulak,2022,3.0,10.0,43.128277,77.080485,Kazakhstan,4.0,,Y,1,,,Y,,
+611,Siachen Glacier ,2016,2.0,3.0,35.452442,77.085467,India,9.0,,Y,10,,0.0,,,https://www.thehindu.com/news/national/Avalanche-traps-10-Army-personnel-in-Siachen/article60563433.ece
+612,Siachen,2019,11.0,18.0,35.245329,77.158828,India,9.0,,Y,6,2.0,,,2 civilian porters,https://timesofindia.indiatimes.com/india/six-feared-dead-after-avalanche-hits-army-positions-in-northern-siachen/articleshow/72114684.cms
+613,Siachen,2021,4.0,25.0,35.33656,77.158828,India,9.0,,Y,2,,,,,https://www.ndtv.com/india-news/two-army-soldiers-killed-in-avalanche-in-siachen-2422536
+614,Himanchal,1973,,,32.248596,77.190601,India,10.0,,Y,2,,,,,"(Chandel et al., 2015)"
+615,Deo-Tibba ,1972,10.0,28.0,32.186436,77.383044,India,10.0,,Y,2,,,,heavy snowfall triggered,"(Chandel et al., 2015)"
+616,"Bharatpur, Lahual",2008,9.0,22.0,32.797365,77.430127,India,10.0,,Y,7,,,,12 trekkers went missing in the Chandertal area,"(Chandel et al., 2015)"
+617,Lahaul Valley,1979,3.0,,31.841332,77.485476,India,10.0,,Y,237,,,,"Intense snowstorms triggered the avalanches, which buried the valley under almost 6 m of snow","(SoER, 2005)"
+618,"Kilba, Kinnaur",1984,2.0,21.0,31.528548,78.142533,India,10.0,,Y,8,,,,,"(Chandel et al., 2015)"
+619,Lippa Himanchal,1975,,,31.652325,78.384838,India,10.0,,Y,2,,,,,"(Chandel et al., 2015)"
+620,"Kinnaur, Himanchal",2002,3.0,5.0,31.811375,78.656008,India,11.0,,Y,3,,,,,http://www.indiaenvironmentportal.org.in/content/140189/avalanches-claim-3-lives/
+621,Chamoli,2021,4.0,23.0,30.822323,79.966271,India,11.0,,Y,8,,,,,https://thehimalayantimes.com/world/at-least-8-dead-in-glacier-avalanche-in-indias-himalayan-state-official
+622,Pithoragarh,2017,3.0,11.0,30.098666,80.800212,India,11.0,,Y,3,,,,1 missing,https://kathmandupost.com/miscellaneous/2017/03/15/two-nepalis-killed-one-missing-in-uttarakhand-avalanche
+623,Darchula avalanche,2017,6.0,1.0,29.85797,80.938675,Nepal,11.0,,Y,1,6.0,,,"6 injured, Yarsagumba picker",https://kathmandupost.com/national/2017/06/03/yarsagumba-collector-killed-in-darchula-avalanche
+624,"Byasimare, Bajhang",2022,6.0,2.0,29.641032,81.074734,Nepal,11.0,,Y,1,,,,Local people suspected wildfire in pine forest as a cause of avalanche ,https://kathmandupost.com/climate-environment/2022/06/29/wildfires-in-bajhang-highlands-destroy-biodiversity
+625,Ili,2008,3.0,17.0,43.92,81.32,China,6.0,,Y,16,,,,,https://reliefweb.int/report/china/death-toll-rises-weather-hinders-rescue-nw-china-avalanche
+626,Aru-1,2016,7.0,17.0,34.02,82.25,China,16.0,glacier detachment,Y,9,,100.0,,>100 yaks killed,"(K��b et al., 2021)"
+627,Aru-2,2016,9.0,,34.0,82.265,China,16.0,glacier detachment,N,0,,0.0,,,"(K��b et al., 2021)"
+628,"Okta, Dolpa avalanche",2017,3.0,11.0,29.07739,82.44277,Nepal,11.0,,Y,0,,8.0,,8 horses and mules,https://kathmandupost.com/national/2017/03/16/one-missing-another-injured-in-dolpa-avalanche
+629,Dolpa avalanche,2017,3.0,11.0,28.840926,83.059938,Nepal,11.0,,Y,1,1.0,,,1 injured,https://kathmandupost.com/national/2017/03/16/one-missing-another-injured-in-dolpa-avalanche
+630,2016 Karnali avalanche,2016,,,29.43017,83.095098,Nepal,11.0,,Y,16,,,,Yarsagumba pickers hit by an avalanche,https://kathmandupost.com/karnali-province/2022/02/12/herb-collectors-stuck-in-snow-start-returning-home
+631,Gurja base camp,2018,10.0,12.0,28.665882,83.300291,Nepal,11.0,powder snow avalanche ,Y,9,,0.0,Y,,https://www.outdoorjournal.com/news/update-9-climbers-die-gurja-base-camp-really-happened-experts-opinion/
+632,Annapurna region ,2014,10.0,14.0,28.673226,83.518843,Nepal,11.0,,Y,43,,,,Not all died due to avalanches,"(Thakuri et al., 2020)"
+633,Kobang,2021,11.0,14.0,28.718882,83.582068,Nepal,11.0,ice and snow avalanche,Y,0,,14.0,,,https://thehimalayantimes.com/nepal/around-120-yaks-go-missing-in-avalanche-in-mustang
+634,Kobang,2022,3.0,,28.718882,83.582068,Nepal,11.0,,Y,0,,7.0,,,by local people
+635,"Kapuche, Kaski",2021,1.0,9.0,28.465885,84.110242,Nepal,11.0,snow avalanche,N,0,,0.0,,,https://www.washingtonpost.com/weather/2021/04/23/nepal-avalanche-mountain-hikers/
+636,Manang,2019,2.0,,28.591301,84.14375,Nepal,11.0,,Y,2,,,,,https://thehimalayantimes.com/nepal/two-dead-in-manang-avalanche
+637,Annapurna,2020,1.0,17.0,28.591216,84.208337,Nepal,11.0,,Y,7,,,,,https://kathmandupost.com/gandaki-province/2020/04/27/rescuers-recover-bodies-of-two-south-korean-tourists-buried-in-an-avalanche-in-january
+638,"Chunchet, Gorkha",1999,1.0,2.0,28.509066,84.961227,Nepal,11.0,,Y,5,,,,,"(MoHA and DPNet-Nepal, 2015)"
+639,Langtang,2015,4.0,25.0,28.237596,85.498829,Nepal,11.0,ice and rock avalanche ,Y,350,,1000.0,,Triggered by Gorkha earthquake and completely destroyed Langtang Village,"(Kargel et al., 2016)"
+640,Langtang avalanche,2021,1.0,,28.237596,85.498829,Nepal,11.0,powder snow avalanche ,N,0,,0.0,,,"Social media/Langtang village facebook page (https://www.facebook.com/Langtangvalley0), later video was removed"
+641,Langtang ,2019,4.0,,28.217826,85.517401,Nepal,11.0,wet snow avalanche,N,0,,0.0,,,witnessed
+642,Sindhum,2007,11.0,,28.215008,85.526744,Nepal,11.0,,Y,2,0.0,,,damaged all fifteen houses in that settlement,"(Soden et al., 2018)"
+643,Lirung avalanche,2018,11.0,,28.237891,85.536642,Nepal,11.0,powder snow avalanche ,N,0,,0.0,,,witnessed
+644,Katon-Karagay,2022,6.0,23.0,49.152485,85.562966,Kazakhstan,,,Y,2,1.0,,,,https://www.inform.kz/en/two-climbers-killed-in-avalanche-in-east-kazakhstan_a3947897
+645,Gokyo ,1995,11.0,12.0,27.912404,86.683499,Nepal,11.0,,Y,48,,100.0,,avalanche/snowstorms,"(Thakuri et al., 2020)"
+646,Everest region,1997,,,28.000026,86.853861,Nepal,11.0,,Y,19,,,, avalanche/snowstorm,"(Thakuri et al., 2020)"
+647,1980 avalanches,1980,,,27.982441,86.88153,Nepal,11.0,,Y,10,,,,,"(Thakuri et al., 2020)"
+648,Lugnak La avalanche,2020,5.0,14.0,27.895319,88.481671,India,12.0,snow avalanche,Y,2,,,,,https://www.hindustantimes.com/india-news/two-soldiers-dead-in-avalanche-at-sikkim-s-lugnak-la/story-neYTXF55CsJy4rJEGdrrLL.html
+649,Kameng sector,2022,2.0,6.0,27.478782,92.11086,India,12.0,snow avalanche,Y,7,,,,,https://www.tribuneindia.com/news/nation/7-army-men-hit-by-avalanche-dead-368190
+650,Amney Machen,2004,1.0,,34.82,99.44,China,21.0,glacier detachment,N,0,0.0,0.0,,happened between 26 Jan - 3 Feb,"(K��b et al., 2021)"
+651,Amney Machen,2007,9.0,,34.82,99.44,China,21.0,glacier detachment,N,0,0.0,0.0,,happened between 23 Sep - 2 Nov,"(K��b et al., 2021)"
+652,Amney Machen,2016,10.0,,34.82,99.44,China,21.0,glacier detachment,N,0,,0.0,,happened between 4 - 7 Oct,"(K��b et al., 2021)"
+653,Amney Machen,2019,7.0,9.0,34.82,99.44,China,21.0,glacier detachment,N,0,0.0,0.0,,between 9-20 July,"(K��b et al., 2021)"
+654,"Kaicheng Town, Yuanzhou District",2012,6.0,5.0,36.210025,104.213076,China,22.0,,Y,10,,,,,https://reliefweb.int/report/china/avalanche-leaves-3-dead-7-missing-nw-china
+655,Chitral ,2012,3.0,19.0,35.845718,71.809852,Pakistan,8.0,snow avalanche,Y,5,,,,,"(Chabot et al., 2016)"
+656,Tajik Badhakshan,2012,3.0,19.0,38.474399,73.102399,Tajikistan,6.0,snow avalanche,Y,1,,50.0,,,"(Chabot et al., 2016)"
+657,Gilgit,2012,3.0,19.0,35.856445,74.462647,Pakistan,8.0,snow avalanche,Y,4,3.0,,,,"(Chabot et al., 2016)"
+658,Mustang,1998,,,28.688387,83.543016,Nepal,11.0,,Y,0,,25.0,,Yaks,
+659,Mustang,1998,,,28.688387,83.543016,Nepal,11.0,ice and snow avalanche,Y,3,,85.0,,85 cows dead,personal communication
+660,Mustang,1987,,,28.688387,83.543016,Nepal,11.0,,Y,0,0.0,62.0,,Yaks,
+661,Mustang,2003,,,28.601155,83.596533,Nepal,11.0,ice and snow avalanche,Y,0,,70.0,,single owner lost 70 yaks,"https://lib.icimod.org/record/12691#:~:text=There%20are%20thirty%20yak%20herd,5%2C000%20metres%20above%20sea%20level."
+662,Langtang,1997,8.0,,28.206287,85.62293,Nepal,11.0,,Y,0,,5.0,,,https://case.edu/affil/tibet/documents/McVeighNomadicPeoplesArticle.pdf
+663,"Jamarch Bala, Maimai, Badakhshan",2022,2.0,23.0,,,Afghanistan,8.0,slab avalanche,N,0,,0.0,,,AKAH-A
+664,,2017,2.0,19.0,,,Kyrgyzstan,5.0,snow avalanche,Y,3,,,,,https://reliefweb.int/report/tajikistan/deadly-avalanches-hit-central-asia
+665,,2017,2.0,19.0,,,Tajikistan,6.0,snow avalanche,Y,5,,,,,https://reliefweb.int/report/tajikistan/deadly-avalanches-hit-central-asia
+666,"Wushnashahr, Nusai, Badakhshan",2019,2.0,5.0,,,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+667,"Jamarch Bala, Maimai, Badakhshan",2019,2.0,6.0,,,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+668,"Nawabad, Nusai, Badakhshan",2019,3.0,28.0,,,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+669,"Ghazdara, Maimai, Badakhshan",2019,4.0,16.0,,,Afghanistan,6.0,wet snow avalanche,N,0,,0.0,,,AKAH-A
+670,"Safidsang, Khahan, Badakhshan",2019,1.0,16.0,,,Afghanistan,6.0,slab avalanche,Y,1,,0.0,,,AKAH-A
+671,"Hosshah, Khahan, Badakhshan",2019,2.0,2.0,,,Afghanistan,6.0,slab avalanche,Y,2,4.0,0.0,,4 persons injured,AKAH-A
+672,"Khaldis, Raghistan, Badakhshan",2019,1.0,17.0,,,Afghanistan,6.0,slab avalanche,Y,8,3.0,0.0,,3 person injured,AKAH-A
+673,"Silla Shudag, Nusai, Badakhshan",2020,1.0,7.0,,,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+674,"Parabir, Maimai, Badakhshan",2020,1.0,13.0,,,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+675,"Ozbay, Maimai, Badakhshan",2020,4.0,15.0,,,Afghanistan,6.0,wet snow avalanche,Y,0,,200.0,,,AKAH-A
+676,"Darmarakht, Shighnan, Badakhshan",2021,1.0,21.0,,,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+677,"Gharan bala Woned, Ishkashim, Badakhshan",2021,3.0,28.0,,,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+678,"Zarandabd, Khahan, Badakhshan",2021,3.0,5.0,,,Afghanistan,6.0,slab avalanche,Y,14,18.0,0.0,,18 persons injured,AKAH-A
+679,"Lech (Sanglige), Shukai, Badakhshan",2022,1.0,3.0,,,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+680,"Taajdara, Raghistan, Badakhshan",2022,1.0,3.0,,,Afghanistan,8.0,slab avalanche,Y,5,,0.0,,,AKAH-A
+681,,2002 - 2008,,,,,Kyrgyzstan,5.0,,Y,56,,,,,https://www.preventionweb.net/files/14436_14436INDEPTHREVIEWOFDRRINKRfinal1.pdf
+682,"Gharan, Ishkashim, Badakhshan",2021,3.0,18.0,,,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
+683,"Woned, Ishkashim, Badakhshan",2021,3.0,29.0,,,Afghanistan,6.0,slab avalanche,N,0,,0.0,,,AKAH-A
