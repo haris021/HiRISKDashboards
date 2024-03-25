@@ -19,10 +19,10 @@ px.set_mapbox_access_token(mapbox_access_token)
 st. set_page_config(layout="wide")
 st.title("High Mountain Hazard Data")
 st.divider()
-
 df_avalanches = pd.read_csv("HiAVALDB.csv", encoding = "latin1")
 df_avalanches = df_avalanches.drop(["Unnamed: 0"], axis=1)
-df_glofs = pd.read_csv("HMAGLOFDB (2).csv", encoding = "latin1")
+
+df_glofs = pd.read_csv("HIMAP_boundaries/HMAGLOFDB (2).csv", encoding = "latin1")
 df_debris_flow = pd.read_csv("debrisflowshkh.csv", encoding = "latin1")
 df_ice_rock_aval = pd.read_csv("icerock_avalanches_zhang2024.csv", encoding = "latin1")
 
@@ -91,7 +91,6 @@ if(event_checkbox == "GLOF"):
             lat=plot_df["Lat_impact"],
             lon=plot_df["Lon_impact"],
             mode = "markers",
-            
             marker=go.scattermapbox.Marker(
                 size=14,
                 color='rgb(255, 0, 0)',
@@ -167,7 +166,6 @@ elif(event_checkbox == "Avalanches"):
     with st.container():
         col2, col3 = st.columns([0.6,0.4])
 
-    
 
 
     country = st.sidebar.selectbox("Select country", ["All"]+sorted(df['Country'].drop_duplicates().tolist()))
@@ -230,7 +228,6 @@ elif(event_checkbox == "Avalanches"):
         )
         col2.plotly_chart(fig, use_container_width=True)
 
-
     else: 
         col2.map()
 
@@ -261,7 +258,6 @@ elif(event_checkbox == "Avalanches"):
     "text/csv",
     key='download-csv'
     )
-            
 elif(event_checkbox == "Debris Flow"):
     df = df_debris_flow.copy()
     df = df.loc[~(df["Country"].isna())]
@@ -430,6 +426,10 @@ elif(event_checkbox=="Ice/Rock Avalanches"):
             "text/csv",
             key='download-csv'
             )
+else:
+    pass
+
+    # Provide references
 st.subheader("Data References")
 st.markdown(
 """
