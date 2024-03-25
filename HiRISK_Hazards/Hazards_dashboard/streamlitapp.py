@@ -19,12 +19,12 @@ px.set_mapbox_access_token(mapbox_access_token)
 st. set_page_config(layout="wide")
 st.title("High Mountain Hazard Data")
 st.divider()
-df_avalanches = pd.read_csv("HiAVALDB.csv", encoding = "latin1")
+df_avalanches = pd.read_csv("Avalances/HiAVALDB.csv", encoding = "latin1")
 df_avalanches = df_avalanches.drop(["Unnamed: 0"], axis=1)
 
-df_glofs = pd.read_csv("HIMAP_boundaries/HMAGLOFDB (2).csv", encoding = "latin1")
-df_debris_flow = pd.read_csv("debrisflowshkh.csv", encoding = "latin1")
-df_ice_rock_aval = pd.read_csv("icerock_avalanches_zhang2024.csv", encoding = "latin1")
+df_glofs = pd.read_csv("GLOFs/HMAGLOFDB.csv", encoding = "latin1")
+df_debris_flow = pd.read_csv("DFs/debrisflowshkh.csv", encoding = "latin1")
+df_ice_rock_aval = pd.read_csv("RIA/icerock_avalanches_zhang2024.csv", encoding = "latin1")
 
 @st.cache_resource
 def get_gj(): 
