@@ -336,96 +336,96 @@ elif(event_checkbox == "Debris Flow"):
             key='download-csv'
             )
 
-elif(event_checkbox=="Ice/Rock Avalanches"):
-    df = df_ice_rock_aval.copy()
-    df = df.loc[~(df["Country"].isna())]
+# elif(event_checkbox=="Ice/Rock Avalanches"):
+#     df = df_ice_rock_aval.copy()
+#     df = df.loc[~(df["Country"].isna())]
 
     
-    with st.container():
-        col2, col3 = st.columns([0.6,0.4])
+#     with st.container():
+#         col2, col3 = st.columns([0.6,0.4])
 
 
 
-    country = st.sidebar.selectbox("Select country", ["All"] + sorted(df['Country'].astype(str).drop_duplicates().dropna().tolist()))
-    st.sidebar.divider()
-    if country!= "All":
-        df = df.loc[(df["Country"]  == country)]
+#     country = st.sidebar.selectbox("Select country", ["All"] + sorted(df['Country'].astype(str).drop_duplicates().dropna().tolist()))
+#     st.sidebar.divider()
+#     if country!= "All":
+#         df = df.loc[(df["Country"]  == country)]
 
-    col2.write(f"Total Incidents: {df.shape[0]}")
+#     col2.write(f"Total Incidents: {df.shape[0]}")
 
 
-    plot_df = df.loc[~(df["Longitude (E)"].isna()) & ~(df["Latitude (N)"].isna())]
-    # plot_df["Remarks"] = plot_df["Remarks"].replace(np.nan, "")
-    plot_df= plot_df.replace(np.nan , "")
+#     plot_df = df.loc[~(df["Longitude (E)"].isna()) & ~(df["Latitude (N)"].isna())]
+#     # plot_df["Remarks"] = plot_df["Remarks"].replace(np.nan, "")
+#     plot_df= plot_df.replace(np.nan , "")
     
-    fig = go.Figure()
-    fig.add_trace(go.Scattermapbox(
-            lat=plot_df["Latitude (N)"],
-            lon=plot_df["Longitude (E)"],
-            mode = "markers",
-            marker=go.scattermapbox.Marker(
-                size=14,
-                color='rgb(255, 0, 0)',
-                opacity=0.7, 
-            ),
-            customdata=plot_df[["Approximate_Date", "Location","Hazard types","Cascading processes", "Country", "Region", "Trigger", "Damage"]],
-            hovertemplate="%{lon}, %{lat}<br>Time Period: %{customdata[0]}<br><br>Hazard Type: %{customdata[2]}<br>Cascading processes: %{customdata[3]}<br><br>Trigger: %{customdata[6]}<br>Damage: %{customdata[7]}<extra>Country: %{customdata[4]}<br>Location: %{customdata[1]}<br>Region: %{customdata[5]}</extra>",
-        ))
-    fig.update_layout(mapbox_layers=[{
-                "below": 'traces',
-                "sourcetype": "geojson",
-                "type": "line",
-                "color": "black",
-                "source": get_gj()
-            }])
+#     fig = go.Figure()
+#     fig.add_trace(go.Scattermapbox(
+#             lat=plot_df["Latitude (N)"],
+#             lon=plot_df["Longitude (E)"],
+#             mode = "markers",
+#             marker=go.scattermapbox.Marker(
+#                 size=14,
+#                 color='rgb(255, 0, 0)',
+#                 opacity=0.7, 
+#             ),
+#             customdata=plot_df[["Approximate_Date", "Location","Hazard types","Cascading processes", "Country", "Region", "Trigger", "Damage"]],
+#             hovertemplate="%{lon}, %{lat}<br>Time Period: %{customdata[0]}<br><br>Hazard Type: %{customdata[2]}<br>Cascading processes: %{customdata[3]}<br><br>Trigger: %{customdata[6]}<br>Damage: %{customdata[7]}<extra>Country: %{customdata[4]}<br>Location: %{customdata[1]}<br>Region: %{customdata[5]}</extra>",
+#         ))
+#     fig.update_layout(mapbox_layers=[{
+#                 "below": 'traces',
+#                 "sourcetype": "geojson",
+#                 "type": "line",
+#                 "color": "black",
+#                 "source": get_gj()
+#             }])
 
-    fig.update_layout(
-        autosize=True,
-        hovermode='closest',
-        showlegend=False,
-        mapbox=dict(
-            accesstoken=mapbox_access_token,
-            bearing=0,
-            center=dict(
-                lat=36,
-                lon=85
-            ),
-            pitch=0,
-            zoom=3.8,
-            style='light'
-        ),
-            height = 650, 
-            margin=dict(l=0,r=0,b=0,t=0)
-    )
-    col2.plotly_chart(fig, use_container_width=True)
+#     fig.update_layout(
+#         autosize=True,
+#         hovermode='closest',
+#         showlegend=False,
+#         mapbox=dict(
+#             accesstoken=mapbox_access_token,
+#             bearing=0,
+#             center=dict(
+#                 lat=36,
+#                 lon=85
+#             ),
+#             pitch=0,
+#             zoom=3.8,
+#             style='light'
+#         ),
+#             height = 650, 
+#             margin=dict(l=0,r=0,b=0,t=0)
+#     )
+#     col2.plotly_chart(fig, use_container_width=True)
 
 
 
 
     
 
-    col2.divider()
+#     col2.divider()
 
 
-    plot_df = df.rename(columns = {"Hazard types": "Type"})
-    plot_df["Type"] = plot_df["Type"].astype(str).map(lambda str: str.replace(" avalanche", ""))
-    plot_df = plot_df.loc[~(plot_df["Type"] == "nan")]
-    fig2 = px.bar(plot_df.groupby("Type").sum(), y = "Casualty", height = 720)
+#     plot_df = df.rename(columns = {"Hazard types": "Type"})
+#     plot_df["Type"] = plot_df["Type"].astype(str).map(lambda str: str.replace(" avalanche", ""))
+#     plot_df = plot_df.loc[~(plot_df["Type"] == "nan")]
+#     fig2 = px.bar(plot_df.groupby("Type").sum(), y = "Casualty", height = 720)
     
     
-    fig2.update_traces(width=0.2)
-    fig2.update_layout(margin=dict(r = 0), title="Fatalities by Avalanche Type")
-    col3.plotly_chart(fig2, theme= None, use_container_width=True)
-    st.dataframe(df, use_container_width=True)
+#     fig2.update_traces(width=0.2)
+#     fig2.update_layout(margin=dict(r = 0), title="Fatalities by Avalanche Type")
+#     col3.plotly_chart(fig2, theme= None, use_container_width=True)
+#     st.dataframe(df, use_container_width=True)
 
-    csv = convert_df(df)
-    st.download_button(
-            "Download Data",
-            csv,
-            f"Filtered Debris Flow Data.csv",
-            "text/csv",
-            key='download-csv'
-            )
+#     csv = convert_df(df)
+#     st.download_button(
+#             "Download Data",
+#             csv,
+#             f"Filtered Debris Flow Data.csv",
+#             "text/csv",
+#             key='download-csv'
+#             )
 else:
     pass
 
