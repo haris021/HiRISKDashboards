@@ -20,7 +20,7 @@ st. set_page_config(layout="wide")
 st.title("High Mountain Hazard Data")
 st.divider()
 df_avalanches = pd.read_csv("HiRISK_Hazards/Avalanches/HiAVALDB.csv", encoding = "latin1")
-df_avalanches = df_avalanches.drop(["Unnamed: 0"], axis=1)
+#df_avalanches = df_avalanches.drop(["Unnamed: 0"], axis=1)
 
 df_glofs = pd.read_csv("HiRISK_Hazards/GLOFs/HMAGLOFDB.csv", encoding = "latin1")
 df_debris_flow = pd.read_csv("HiRISK_Hazards/DFs/debrisflowshkh.csv", encoding = "latin1")
