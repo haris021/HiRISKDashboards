@@ -28,7 +28,7 @@ df_ice_rock_aval = pd.read_csv("icerock_avalanches_zhang2024.csv", encoding = "l
 
 @st.cache_resource
 def get_gj(): 
-    with open('HIMAP_boundaries.geojson') as f:
+    with open('HiRISK_Hazards/Hazards_dashboard/HIMAP_boundaries.geojson') as f:
         gj = geojson.load(f)
 
     return gj
