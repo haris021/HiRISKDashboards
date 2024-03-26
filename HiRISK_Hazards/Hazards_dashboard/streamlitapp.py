@@ -24,7 +24,7 @@ df_avalanches = pd.read_csv("HiRISK_Hazards/Avalanches/HiAVALDB.csv", encoding =
 
 df_glofs = pd.read_csv("HiRISK_Hazards/GLOFs/HMAGLOFDB.csv", encoding = "latin1")
 df_debris_flow = pd.read_csv("HiRISK_Hazards/DFs/debrisflowshkh.csv", encoding = "latin1")
-df_ice_rock_aval = pd.read_csv("HiRISK_Hazards/RIA/icerock_avalanches_zhang2024.csv", encoding = "latin1")
+df_ice_rock_aval = pd.read_csv("HiRISK_Hazards/RIA/icerockavalanches.csv", encoding = "latin1")
 
 @st.cache_resource
 def get_gj(): 
